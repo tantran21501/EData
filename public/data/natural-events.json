@@ -3,10 +3,91 @@
   "dataset": "natural_events",
   "source": "NASA EONET",
   "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=all&days=30&limit=500",
-  "generated_at": "2026-08-24T06:53:37.742Z",
+  "generated_at": "2026-08-24T13:16:06.173Z",
   "period": "past_30_days",
   "count": 500,
   "items": [
+    {
+      "id": "EONET_23205",
+      "title": "Tropical Storm Iselle",
+      "description": null,
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "severeStorms",
+          "title": "Severe Storms"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -111.9,
+        14.1
+      ],
+      "observed_at": "2026-08-23T00:00:00Z",
+      "magnitude_value": 35,
+      "magnitude_unit": "kts",
+      "sources": [
+        {
+          "id": "JTWC",
+          "url": "https://www.metoc.navy.mil/jtwc/products/ep0926.tcw"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23205"
+    },
+    {
+      "id": "EONET_23206",
+      "title": "Tropical Storm Moke",
+      "description": null,
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "severeStorms",
+          "title": "Severe Storms"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -146.7,
+        13.7
+      ],
+      "observed_at": "2026-08-21T18:00:00Z",
+      "magnitude_value": 35,
+      "magnitude_unit": "kts",
+      "sources": [
+        {
+          "id": "JTWC",
+          "url": "https://www.metoc.navy.mil/jtwc/products/cp0226.tcw"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23206"
+    },
+    {
+      "id": "EONET_23207",
+      "title": "Tropical Storm Narra",
+      "description": null,
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "severeStorms",
+          "title": "Severe Storms"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        108.7,
+        20.6
+      ],
+      "observed_at": "2026-08-21T06:00:00Z",
+      "magnitude_value": 35,
+      "magnitude_unit": "kts",
+      "sources": [
+        {
+          "id": "JTWC",
+          "url": "https://www.metoc.navy.mil/jtwc/products/wp1826.tcw"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23207"
+    },
     {
       "id": "EONET_23078",
       "title": "Wildfire in Botswana 1030886",
@@ -38386,11 +38467,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        136.3,
-        23.9
+        134.7,
+        24.5
       ],
-      "observed_at": "2026-08-24T00:00:00Z",
-      "magnitude_value": 110,
+      "observed_at": "2026-08-24T06:00:00Z",
+      "magnitude_value": 105,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -138346,10 +138427,10 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -174.6,
-        32.9
+        -174.7,
+        33.2
       ],
-      "observed_at": "2026-08-24T00:00:00Z",
+      "observed_at": "2026-08-24T06:00:00Z",
       "magnitude_value": 55,
       "magnitude_unit": "kts",
       "sources": [
@@ -164417,87 +164498,6 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22779"
-    },
-    {
-      "id": "EONET_22780",
-      "title": "Wildfire in Zambia 1030597",
-      "description": null,
-      "closed_at": "2026-08-15T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        29.642929805721,
-        -10.106421212353
-      ],
-      "observed_at": "2026-08-09T19:00:00Z",
-      "magnitude_value": 6732,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030597"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22780"
-    },
-    {
-      "id": "EONET_22781",
-      "title": "Wildfire in Angola 1030598",
-      "description": null,
-      "closed_at": "2026-08-15T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        16.320049894935,
-        -9.0342614867445
-      ],
-      "observed_at": "2026-08-09T19:00:00Z",
-      "magnitude_value": 5157,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030598"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22781"
-    },
-    {
-      "id": "EONET_22782",
-      "title": "Wildfire in The Democratic Republic of Congo 1030599",
-      "description": null,
-      "closed_at": "2026-08-15T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        18.853833802772,
-        -4.5837087347086
-      ],
-      "observed_at": "2026-08-09T19:00:00Z",
-      "magnitude_value": 5553,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030599"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22782"
     }
   ]
 }
