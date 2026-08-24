@@ -1,0 +1,65 @@
+name: Collect Earth data
+
+on:
+  schedule:
+    # Dispatcher every 3 hours. Each collector checks its own due interval.
+    # Minute 17 avoids the heavy load commonly seen at minute 0 on GitHub Actions.
+    - cron: "17 */3 * * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Ignore intervals and update all sources"
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: earth-data-collector
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Collect datasets
+        env:
+          FIRMS_MAP_KEY: ${{ secrets.FIRMS_MAP_KEY }}
+          USER_AGENT: EarthLiveCamera-DataCollector/1.0
+          MAX_RETRIES: "3"
+          HTTP_TIMEOUT_MS: "30000"
+        run: |
+          if [ "${{ inputs.force }}" = "true" ]; then
+            npm run collect:force
+          else
+            npm run collect
+          fi
+
+      - name: Validate generated JSON
+        run: npm run validate
+
+      - name: Commit updated data
+        run: |
+          if git diff --quiet -- public/data .state; then
+            echo "No data changes to commit."
+            exit 0
+          fi
+          git config user.name "earth-data-bot"
+          git config user.email "earth-data-bot@users.noreply.github.com"
+          git add public/data .state
+          git commit -m "data: refresh Earth datasets [skip ci]"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
