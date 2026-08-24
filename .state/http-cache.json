@@ -1,5 +1,14 @@
 {
   "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson": {
     "lastModified": "Mon, 24 Aug 2026 06:48:00 GMT"
+  },
+  "https://eonet.gsfc.nasa.gov/api/v3/events?status=all&days=30&limit=500": {},
+  "celestrak-stations": {},
+  "celestrak-weather": {},
+  "celestrak-starlink": {},
+  "celestrak-active": {},
+  "noaa-kp": {
+    "etag": "W/\"1186-659c56dfa0efd\"",
+    "lastModified": "Mon, 24 Aug 2026 06:52:28 GMT"
   }
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-24T06:48:24.997Z",
+  "generated_at": "2026-08-24T06:53:53.757Z",
   "dispatcher_schedule": "Every 3 hours at minute 17 UTC",
   "estimated_max_upstream_requests_per_day": 44,
   "datasets": {
@@ -15,14 +15,14 @@
       "file": "natural-events.json",
       "interval_hours": 6,
       "request_budget_per_run": 1,
-      "last_success_at": null,
+      "last_success_at": "2026-08-24T06:53:37.781Z",
       "last_error": null
     },
     "satellites": {
       "file": "satellites.json",
       "interval_hours": 12,
       "request_budget_per_run": 4,
-      "last_success_at": null,
+      "last_success_at": "2026-08-24T06:53:42.544Z",
       "last_error": null
     },
     "spaceWeather": {
@@ -30,13 +30,13 @@
       "interval_hours": 3,
       "request_budget_per_run": 3,
       "last_success_at": null,
-      "last_error": null
+      "last_error": "HTTP 404 for https://services.swpc.noaa.gov/products/solar-wind/mag-7-day.json"
     },
     "dayNight": {
       "file": "day-night.json",
       "interval_hours": 24,
       "request_budget_per_run": 0,
-      "last_success_at": null,
+      "last_success_at": "2026-08-24T06:53:53.756Z",
       "last_error": null
     }
   }
