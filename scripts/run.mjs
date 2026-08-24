@@ -1,7 +1,8 @@
 import { sources, scheduleSummary } from "../config/sources.mjs";
 import { collectEarthquakes } from "../collectors/earthquakes.mjs";
 import { collectNaturalEvents } from "../collectors/natural-events.mjs";
-import { collectWildfires } from "../collectors/wildfires.mjs";
+// Temporarily disabled: requires FIRMS_MAP_KEY which is not configured yet.
+// import { collectWildfires } from "../collectors/wildfires.mjs";
 import { collectSatellites } from "../collectors/satellites.mjs";
 import { collectSpaceWeather } from "../collectors/space-weather.mjs";
 import { collectDayNight } from "../collectors/day-night.mjs";
@@ -15,7 +16,7 @@ const state = await loadRunState();
 const jobs = {
   earthquakes: collectEarthquakes,
   naturalEvents: collectNaturalEvents,
-  wildfires: collectWildfires,
+  // wildfires: collectWildfires,
   satellites: collectSatellites,
   spaceWeather: collectSpaceWeather,
   dayNight: collectDayNight,

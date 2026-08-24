@@ -1,3 +1,10 @@
 {
-  "sources": {}
+  "sources": {
+    "earthquakes": {
+      "lastAttemptAt": "2026-08-24T06:48:24.996Z",
+      "lastSuccessAt": "2026-08-24T06:48:24.996Z",
+      "lastError": null,
+      "count": 2299
+    }
+  }
 }

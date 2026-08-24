@@ -37,7 +37,6 @@ jobs:
 
       - name: Collect datasets
         env:
-          FIRMS_MAP_KEY: ${{ secrets.FIRMS_MAP_KEY }}
           USER_AGENT: EarthLiveCamera-DataCollector/1.0
           MAX_RETRIES: "3"
           HTTP_TIMEOUT_MS: "30000"
