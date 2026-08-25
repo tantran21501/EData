@@ -7,8 +7,8 @@
       "count": 2503
     },
     "naturalEvents": {
-      "lastAttemptAt": "2026-08-24T21:46:18.243Z",
-      "lastSuccessAt": "2026-08-24T21:46:18.243Z",
+      "lastAttemptAt": "2026-08-25T04:03:05.308Z",
+      "lastSuccessAt": "2026-08-25T04:03:05.308Z",
       "lastError": null,
       "count": 500
     },
@@ -19,7 +19,7 @@
       "count": 16395
     },
     "spaceWeather": {
-      "lastAttemptAt": "2026-08-25T01:54:53.360Z",
+      "lastAttemptAt": "2026-08-25T04:03:16.542Z",
       "lastError": "HTTP 404 for https://services.swpc.noaa.gov/products/solar-wind/mag-7-day.json"
     },
     "dayNight": {
