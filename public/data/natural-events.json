@@ -3,7 +3,7 @@
   "dataset": "natural_events",
   "source": "NASA EONET",
   "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=all&days=30&limit=500",
-  "generated_at": "2026-08-25T04:03:05.266Z",
+  "generated_at": "2026-08-25T13:13:54.795Z",
   "period": "past_30_days",
   "count": 500,
   "items": [
@@ -101,10 +101,10 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -117.6,
-        18.9
+        -119.6,
+        20.4
       ],
-      "observed_at": "2026-08-24T18:00:00Z",
+      "observed_at": "2026-08-25T06:00:00Z",
       "magnitude_value": 60,
       "magnitude_unit": "kts",
       "sources": [
@@ -344,10 +344,10 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -161.1,
-        15.6
+        -163.5,
+        16.2
       ],
-      "observed_at": "2026-08-24T18:00:00Z",
+      "observed_at": "2026-08-25T06:00:00Z",
       "magnitude_value": 30,
       "magnitude_unit": "kts",
       "sources": [
@@ -479,11 +479,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        107.7,
-        19.5
+        108.2,
+        19.4
       ],
-      "observed_at": "2026-08-24T18:00:00Z",
-      "magnitude_value": 35,
+      "observed_at": "2026-08-25T06:00:00Z",
+      "magnitude_value": 40,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -39439,11 +39439,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        132.3,
-        25.6
+        130.1,
+        26.8
       ],
-      "observed_at": "2026-08-24T18:00:00Z",
-      "magnitude_value": 95,
+      "observed_at": "2026-08-25T06:00:00Z",
+      "magnitude_value": 80,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -140483,11 +140483,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -175.2,
-        33.5
+        -175.7,
+        34.5
       ],
-      "observed_at": "2026-08-24T18:00:00Z",
-      "magnitude_value": 55,
+      "observed_at": "2026-08-25T06:00:00Z",
+      "magnitude_value": 50,
       "magnitude_unit": "kts",
       "sources": [
         {
