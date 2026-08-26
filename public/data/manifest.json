@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-26T02:01:22.336Z",
+  "generated_at": "2026-08-26T04:05:49.157Z",
   "dispatcher_schedule": "Every 3 hours at minute 17 UTC",
   "estimated_max_upstream_requests_per_day": 44,
   "datasets": {
@@ -15,7 +15,7 @@
       "file": "natural-events.json",
       "interval_hours": 6,
       "request_budget_per_run": 1,
-      "last_success_at": "2026-08-25T21:46:16.373Z",
+      "last_success_at": "2026-08-26T04:05:37.732Z",
       "last_error": null
     },
     "satellites": {

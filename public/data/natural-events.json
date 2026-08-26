@@ -3,7 +3,7 @@
   "dataset": "natural_events",
   "source": "NASA EONET",
   "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=all&days=30&limit=500",
-  "generated_at": "2026-08-25T21:46:16.333Z",
+  "generated_at": "2026-08-26T04:05:37.698Z",
   "period": "past_30_days",
   "count": 500,
   "items": [
@@ -20,11 +20,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -119.1,
-        17
+        -118.8,
+        19.5
       ],
-      "observed_at": "2026-08-25T12:00:00Z",
-      "magnitude_value": 45,
+      "observed_at": "2026-08-25T18:00:00Z",
+      "magnitude_value": 40,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -155,11 +155,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -120.7,
-        20.8
+        -121.4,
+        20.9
       ],
-      "observed_at": "2026-08-25T12:00:00Z",
-      "magnitude_value": 60,
+      "observed_at": "2026-08-25T18:00:00Z",
+      "magnitude_value": 50,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -1265,11 +1265,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        108.9,
-        19.5
+        109.6,
+        20
       ],
-      "observed_at": "2026-08-25T12:00:00Z",
-      "magnitude_value": 30,
+      "observed_at": "2026-08-25T18:00:00Z",
+      "magnitude_value": 25,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -45132,11 +45132,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        129,
-        27.2
+        128.1,
+        27.5
       ],
-      "observed_at": "2026-08-25T12:00:00Z",
-      "magnitude_value": 85,
+      "observed_at": "2026-08-25T18:00:00Z",
+      "magnitude_value": 80,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -146932,10 +146932,10 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -176.4,
-        34.8
+        -177,
+        34.9
       ],
-      "observed_at": "2026-08-25T12:00:00Z",
+      "observed_at": "2026-08-25T18:00:00Z",
       "magnitude_value": 45,
       "magnitude_unit": "kts",
       "sources": [
