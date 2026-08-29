@@ -3,7 +3,7 @@
   "dataset": "natural_events",
   "source": "NASA EONET",
   "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=all&days=30&limit=500",
-  "generated_at": "2026-08-29T01:46:24.248Z",
+  "generated_at": "2026-08-29T10:09:57.452Z",
   "period": "past_30_days",
   "count": 500,
   "items": [
@@ -69312,6 +69312,37 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23229"
+    },
+    {
+      "id": "EONET_2736",
+      "title": "Iceberg B22A",
+      "description": null,
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "seaLakeIce",
+          "title": "Sea and Lake Ice"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        171.19,
+        -69.24
+      ],
+      "observed_at": "2026-08-20T00:00:00Z",
+      "magnitude_value": 725,
+      "magnitude_unit": "NM^2",
+      "sources": [
+        {
+          "id": "BYU_ICE",
+          "url": "http://www.scp.byu.edu/data/iceberg/ascat/b22a.ascat"
+        },
+        {
+          "id": "NATICE",
+          "url": "https://usicecenter.gov/pub/Iceberg_Tabular.csv"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_2736"
     },
     {
       "id": "EONET_23212",
@@ -211159,33 +211190,6 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23174"
-    },
-    {
-      "id": "EONET_23175",
-      "title": "Wildfire in The Democratic Republic of Congo 1030973",
-      "description": null,
-      "closed_at": "2026-08-21T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        18.091689506729,
-        -4.9096786365799
-      ],
-      "observed_at": "2026-08-14T19:00:00Z",
-      "magnitude_value": 5228,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030973"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23175"
     }
   ]
 }
