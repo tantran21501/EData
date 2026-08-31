@@ -3,7 +3,7 @@
   "dataset": "natural_events",
   "source": "NASA EONET",
   "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=all&days=30&limit=500",
-  "generated_at": "2026-08-31T05:42:33.701Z",
+  "generated_at": "2026-08-31T13:58:42.525Z",
   "period": "past_30_days",
   "count": 500,
   "items": [
@@ -101,11 +101,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -111.5,
-        10.8
+        -124,
+        17.2
       ],
-      "observed_at": "2026-08-27T18:00:00Z",
-      "magnitude_value": 40,
+      "observed_at": "2026-08-31T06:00:00Z",
+      "magnitude_value": 120,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -128,11 +128,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -134,
-        11.2
+        -143.7,
+        13
       ],
-      "observed_at": "2026-08-27T18:00:00Z",
-      "magnitude_value": 40,
+      "observed_at": "2026-08-31T06:00:00Z",
+      "magnitude_value": 50,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -155,11 +155,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        162.4,
-        16.9
+        165.9,
+        34.1
       ],
-      "observed_at": "2026-08-27T06:00:00Z",
-      "magnitude_value": 45,
+      "observed_at": "2026-08-30T12:00:00Z",
+      "magnitude_value": 35,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -182,11 +182,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        167.7,
-        20.4
+        166.8,
+        31.7
       ],
-      "observed_at": "2026-08-27T00:00:00Z",
-      "magnitude_value": 35,
+      "observed_at": "2026-08-30T18:00:00Z",
+      "magnitude_value": 30,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -44560,7 +44560,7 @@
       "id": "EONET_23286",
       "title": "Tropical Storm Julio",
       "description": null,
-      "closed_at": null,
+      "closed_at": "2026-08-30T00:00:00Z",
       "categories": [
         {
           "id": "severeStorms",
@@ -91507,7 +91507,7 @@
       "id": "EONET_23207",
       "title": "Tropical Storm Narra",
       "description": null,
-      "closed_at": null,
+      "closed_at": "2026-08-30T00:00:00Z",
       "categories": [
         {
           "id": "severeStorms",
