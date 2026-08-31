@@ -3,7 +3,7 @@
   "dataset": "natural_events",
   "source": "NASA EONET",
   "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=all&days=30&limit=500",
-  "generated_at": "2026-08-30T21:10:49.932Z",
+  "generated_at": "2026-08-31T05:42:33.701Z",
   "period": "past_30_days",
   "count": 500,
   "items": [
@@ -87,6 +87,114 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23582"
+    },
+    {
+      "id": "EONET_23611",
+      "title": "Hurricane Karina",
+      "description": null,
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "severeStorms",
+          "title": "Severe Storms"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -111.5,
+        10.8
+      ],
+      "observed_at": "2026-08-27T18:00:00Z",
+      "magnitude_value": 40,
+      "magnitude_unit": "kts",
+      "sources": [
+        {
+          "id": "JTWC",
+          "url": "https://www.metoc.navy.mil/jtwc/products/ep1126.tcw"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23611"
+    },
+    {
+      "id": "EONET_23612",
+      "title": "Tropical Storm Lowell",
+      "description": null,
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "severeStorms",
+          "title": "Severe Storms"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -134,
+        11.2
+      ],
+      "observed_at": "2026-08-27T18:00:00Z",
+      "magnitude_value": 40,
+      "magnitude_unit": "kts",
+      "sources": [
+        {
+          "id": "JTWC",
+          "url": "https://www.metoc.navy.mil/jtwc/products/ep1226.tcw"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23612"
+    },
+    {
+      "id": "EONET_23613",
+      "title": "Tropical Storm Bang-Lang",
+      "description": null,
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "severeStorms",
+          "title": "Severe Storms"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        162.4,
+        16.9
+      ],
+      "observed_at": "2026-08-27T06:00:00Z",
+      "magnitude_value": 45,
+      "magnitude_unit": "kts",
+      "sources": [
+        {
+          "id": "JTWC",
+          "url": "https://www.metoc.navy.mil/jtwc/products/wp2026.tcw"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23613"
+    },
+    {
+      "id": "EONET_23614",
+      "title": "Tropical Storm Etau",
+      "description": null,
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "severeStorms",
+          "title": "Severe Storms"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        167.7,
+        20.4
+      ],
+      "observed_at": "2026-08-27T00:00:00Z",
+      "magnitude_value": 35,
+      "magnitude_unit": "kts",
+      "sources": [
+        {
+          "id": "JTWC",
+          "url": "https://www.metoc.navy.mil/jtwc/products/wp2126.tcw"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23614"
     },
     {
       "id": "EONET_23529",
@@ -205802,114 +205910,6 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23273"
-    },
-    {
-      "id": "EONET_23274",
-      "title": "Wildfire in Zambia 1031027",
-      "description": null,
-      "closed_at": "2026-08-22T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        30.402258500202,
-        -12.868664946947
-      ],
-      "observed_at": "2026-08-15T19:00:00Z",
-      "magnitude_value": 7704,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031027"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23274"
-    },
-    {
-      "id": "EONET_23275",
-      "title": "Wildfire in Angola 1031029",
-      "description": null,
-      "closed_at": "2026-08-22T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        17.504245180039,
-        -12.327753599933
-      ],
-      "observed_at": "2026-08-15T19:00:00Z",
-      "magnitude_value": 5170,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031029"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23275"
-    },
-    {
-      "id": "EONET_23276",
-      "title": "Wildfire in Zambia 1031031",
-      "description": null,
-      "closed_at": "2026-08-22T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        28.939033605596,
-        -11.642122919402
-      ],
-      "observed_at": "2026-08-15T19:00:00Z",
-      "magnitude_value": 5120,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031031"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23276"
-    },
-    {
-      "id": "EONET_23277",
-      "title": "Wildfire in The Democratic Republic of Congo 1031032",
-      "description": null,
-      "closed_at": "2026-08-22T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        29.042165307753,
-        -13.042506815258
-      ],
-      "observed_at": "2026-08-15T19:00:00Z",
-      "magnitude_value": 5053,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031032"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23277"
     }
   ]
 }
