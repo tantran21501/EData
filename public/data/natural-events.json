@@ -3,10 +3,145 @@
   "dataset": "natural_events",
   "source": "NASA EONET",
   "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=all&days=30&limit=500",
-  "generated_at": "2026-08-31T20:51:51.759Z",
+  "generated_at": "2026-09-01T08:43:30.991Z",
   "period": "past_30_days",
   "count": 500,
   "items": [
+    {
+      "id": "EONET_23656",
+      "title": "Wildfire Ruggs, Morrow, Oregon",
+      "description": null,
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -119.69069,
+        45.253405
+      ],
+      "observed_at": "2026-08-31T15:38:00Z",
+      "magnitude_value": 650,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-ORHEPN-000600"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23656"
+    },
+    {
+      "id": "EONET_23658",
+      "title": "Wildfire Harris, Throckmorton, Texas",
+      "description": "4 Miles NW from Woodson, TX",
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -99.07646449,
+        33.05632251
+      ],
+      "observed_at": "2026-08-31T14:22:00Z",
+      "magnitude_value": 500,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-TXTXS-267913"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23658"
+    },
+    {
+      "id": "EONET_23685",
+      "title": "Wildfire SOUTH RAILROAD, Comanche, Oklahoma",
+      "description": null,
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -98.7205,
+        34.6084
+      ],
+      "observed_at": "2026-08-30T09:40:00Z",
+      "magnitude_value": 500,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-OKANA-002690"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23685"
+    },
+    {
+      "id": "EONET_23673",
+      "title": "Wildfire Alexander Trail Fire, Pushmataha, Oklahoma",
+      "description": "5 Miles W from Nashoba, OK",
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -95.2966667,
+        34.4777778
+      ],
+      "observed_at": "2026-08-30T09:04:00Z",
+      "magnitude_value": 1400,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-OKOKSC-260966"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23673"
+    },
+    {
+      "id": "EONET_23683",
+      "title": "Wildfire 4V, San Miguel, New Mexico",
+      "description": "40 Miles NW from Tucumcari, NM",
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -104.295,
+        35.535
+      ],
+      "observed_at": "2026-08-29T19:02:00Z",
+      "magnitude_value": 1000,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-NMN4S-000549"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23683"
+    },
     {
       "id": "EONET_23619",
       "title": "Wildfire in Australia 1031352",
@@ -60,6 +195,114 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23620"
+    },
+    {
+      "id": "EONET_23674",
+      "title": "Wildfire WRIGHT, Hughes, Oklahoma",
+      "description": "5 Miles SW from Dustin, OK",
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -96.1149,
+        35.224667
+      ],
+      "observed_at": "2026-08-29T18:05:00Z",
+      "magnitude_value": 608,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-OKOMA-002688"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23674"
+    },
+    {
+      "id": "EONET_23657",
+      "title": "Wildfire Sandy, Kenedy, Texas",
+      "description": "12 Miles NW from Raymondville, TX",
+      "closed_at": "2026-08-31T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -97.92166667,
+        26.615
+      ],
+      "observed_at": "2026-08-29T17:07:00Z",
+      "magnitude_value": 2003,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-TXTXS-267837"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23657"
+    },
+    {
+      "id": "EONET_23676",
+      "title": "Wildfire RAILROAD SOUTH, Comanche, Oklahoma",
+      "description": "3 Miles E from Indiahoma, OK",
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -98.7205,
+        34.6084
+      ],
+      "observed_at": "2026-08-29T16:31:00Z",
+      "magnitude_value": 515,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-OKANA-002686"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23676"
+    },
+    {
+      "id": "EONET_23666",
+      "title": "Wildfire McKee Draw, Edwards, Texas",
+      "description": "13 Miles NW from Rocksprings, TX",
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -100.3149,
+        30.18416667
+      ],
+      "observed_at": "2026-08-29T14:17:00Z",
+      "magnitude_value": 4416,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-TXTXS-267823"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23666"
     },
     {
       "id": "EONET_23615",
@@ -1497,6 +1740,60 @@
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23615"
     },
     {
+      "id": "EONET_23664",
+      "title": "Wildfire West Fork, Sutton, Texas",
+      "description": "25 Miles SW from Junction, TX",
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -100.1516574,
+        30.36872624
+      ],
+      "observed_at": "2026-08-28T19:23:00Z",
+      "magnitude_value": 961,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-TXTXS-267801"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23664"
+    },
+    {
+      "id": "EONET_23660",
+      "title": "Wildfire Horse Camp, Treasure, Montana",
+      "description": "8 Miles NW from HYSHAM, MT",
+      "closed_at": "2026-08-31T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -107.45656,
+        46.42173
+      ],
+      "observed_at": "2026-08-28T19:15:00Z",
+      "magnitude_value": 575,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-MTLG33-261257"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23660"
+    },
+    {
       "id": "EONET_23580",
       "title": "Wildfire in Australia 1031345",
       "description": null,
@@ -1522,6 +1819,33 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23580"
+    },
+    {
+      "id": "EONET_23678",
+      "title": "Wildfire Coldwater, Cassia, Idaho",
+      "description": "20 Miles SW from American Falls, ID",
+      "closed_at": "2026-08-30T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -113.06765,
+        42.575467
+      ],
+      "observed_at": "2026-08-27T20:03:00Z",
+      "magnitude_value": 1539,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-IDCAX-000227"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23678"
     },
     {
       "id": "EONET_23616",
@@ -40326,6 +40650,33 @@
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23617"
     },
     {
+      "id": "EONET_23669",
+      "title": "Wildfire Roe 2, Beaverhead, Montana",
+      "description": "20 Miles S from Dillon, MT",
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -112.77825,
+        44.921867
+      ],
+      "observed_at": "2026-08-27T19:48:00Z",
+      "magnitude_value": 978,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-MTCES-266405"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23669"
+    },
+    {
       "id": "EONET_23581",
       "title": "Wildfire in Australia 1031346",
       "description": null,
@@ -40473,11 +40824,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -124.7,
-        17.3
+        -126.3,
+        17.7
       ],
-      "observed_at": "2026-08-31T12:00:00Z",
-      "magnitude_value": 120,
+      "observed_at": "2026-09-01T00:00:00Z",
+      "magnitude_value": 115,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -40500,10 +40851,10 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -145.2,
-        12.8
+        -147,
+        12.9
       ],
-      "observed_at": "2026-08-31T12:00:00Z",
+      "observed_at": "2026-09-01T00:00:00Z",
       "magnitude_value": 55,
       "magnitude_unit": "kts",
       "sources": [
@@ -40513,6 +40864,33 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23612"
+    },
+    {
+      "id": "EONET_23688",
+      "title": "Wildfire Corky, Van Zandt, Texas",
+      "description": "10 Miles NW from Canton, TX",
+      "closed_at": "2026-08-28T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -95.97666667,
+        32.665
+      ],
+      "observed_at": "2026-08-27T17:20:00Z",
+      "magnitude_value": 657,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-TXTXS-267740"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23688"
     },
     {
       "id": "EONET_23613",
@@ -40540,6 +40918,33 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23613"
+    },
+    {
+      "id": "EONET_23668",
+      "title": "Wildfire Brushy Canyon, Box Elder, Utah",
+      "description": "4 Miles N from Promontory, UT",
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -112.4795,
+        41.288667
+      ],
+      "observed_at": "2026-08-27T01:42:00Z",
+      "magnitude_value": 10002,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-UTBRS-200695"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23668"
     },
     {
       "id": "EONET_23614",
@@ -64316,6 +64721,33 @@
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23631"
     },
     {
+      "id": "EONET_23689",
+      "title": "Wildfire CAVE, Ada, Idaho",
+      "description": "3 Miles E from MELBA, ID",
+      "closed_at": "2026-08-27T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -116.448356,
+        43.361664
+      ],
+      "observed_at": "2026-08-26T17:37:00Z",
+      "magnitude_value": 2164.6,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-IDBOD-001016"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23689"
+    },
+    {
       "id": "EONET_23453",
       "title": "Wildfire Calico, Humboldt, Nevada",
       "description": "71 Miles N from Winnemucca, NV",
@@ -64341,6 +64773,60 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23453"
+    },
+    {
+      "id": "EONET_23672",
+      "title": "Wildfire Dudley, Shoshone, Idaho",
+      "description": "5 Miles N from Wallace, ID",
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -115.920767,
+        47.539417
+      ],
+      "observed_at": "2026-08-26T16:46:00Z",
+      "magnitude_value": 553,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-IDIPF-000730"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23672"
+    },
+    {
+      "id": "EONET_23681",
+      "title": "Wildfire Plaskett, Monterey, California",
+      "description": "34 Miles SW from Big Sur, CA",
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -121.4125,
+        35.905667
+      ],
+      "observed_at": "2026-08-26T12:46:00Z",
+      "magnitude_value": 15479,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-CALPF-002475"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23681"
     },
     {
       "id": "EONET_23455",
@@ -86675,6 +87161,87 @@
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23456"
     },
     {
+      "id": "EONET_23663",
+      "title": "Wildfire Blue Eagle, Churchill, Nevada",
+      "description": "28 Miles NW from Austin, NV",
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -117.69345,
+        39.751733
+      ],
+      "observed_at": "2026-08-25T14:39:00Z",
+      "magnitude_value": 9218,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-NVCCD-030758"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23663"
+    },
+    {
+      "id": "EONET_23682",
+      "title": "Wildfire Paddy Creek, Apache, Arizona",
+      "description": "22 Miles SE from White River, AZ",
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -109.649486,
+        33.620704
+      ],
+      "observed_at": "2026-08-25T11:13:00Z",
+      "magnitude_value": 668,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-AZFTA-000812"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23682"
+    },
+    {
+      "id": "EONET_23677",
+      "title": "Wildfire Buck Creek, Pushmataha, Oklahoma",
+      "description": "3 Miles SE from Daisy, OK",
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -95.6938889,
+        34.4980556
+      ],
+      "observed_at": "2026-08-25T10:34:00Z",
+      "magnitude_value": 597,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-OKOKS-260920"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23677"
+    },
+    {
       "id": "EONET_23286",
       "title": "Tropical Storm Julio",
       "description": null,
@@ -86700,6 +87267,33 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286"
+    },
+    {
+      "id": "EONET_23675",
+      "title": "Wildfire MITCHELL SPRINGS, Malheur, Oregon",
+      "description": "8 Miles NW from MCDERMITT, OR",
+      "closed_at": "2026-08-29T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -117.890628,
+        42.091533
+      ],
+      "observed_at": "2026-08-25T01:42:00Z",
+      "magnitude_value": 5444,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-ORVAD-260264"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23675"
     },
     {
       "id": "EONET_23462",
@@ -86729,6 +87323,60 @@
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23462"
     },
     {
+      "id": "EONET_23686",
+      "title": "Wildfire Sombrero, Humboldt, Nevada",
+      "description": "25 Miles NW from Winnemucca, NV",
+      "closed_at": "2026-08-27T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -118.047767,
+        41.13595
+      ],
+      "observed_at": "2026-08-24T23:20:00Z",
+      "magnitude_value": 19204,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-NVWID-020597"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23686"
+    },
+    {
+      "id": "EONET_23687",
+      "title": "Wildfire Juniper Ridge, Humboldt, Nevada",
+      "description": "10 Miles NE from Winnemucca, NV",
+      "closed_at": "2026-08-28T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -117.600433,
+        40.938417
+      ],
+      "observed_at": "2026-08-24T22:32:00Z",
+      "magnitude_value": 778,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-NVWID-020599"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23687"
+    },
+    {
       "id": "EONET_23464",
       "title": "Wildfire Tuana Gulch, Elmore, Idaho",
       "description": "10 Miles SW from Bliss, ID",
@@ -86754,6 +87402,33 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23464"
+    },
+    {
+      "id": "EONET_23670",
+      "title": "Wildfire Wildhorse, Lincoln, Idaho",
+      "description": "10 Miles N from Kimama, ID",
+      "closed_at": "2026-08-30T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -113.88465,
+        43.0013
+      ],
+      "observed_at": "2026-08-24T19:18:00Z",
+      "magnitude_value": 107562,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-IDTFD-000216"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23670"
     },
     {
       "id": "EONET_23403",
@@ -87242,6 +87917,60 @@
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23640"
     },
     {
+      "id": "EONET_23667",
+      "title": "Wildfire FLINT, Owyhee, Idaho",
+      "description": "45 Miles SW from NAMPA, ID",
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -116.822,
+        42.882167
+      ],
+      "observed_at": "2026-08-24T17:48:00Z",
+      "magnitude_value": 6763,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-IDBOD-000994"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23667"
+    },
+    {
+      "id": "EONET_23659",
+      "title": "Wildfire Forleen, Elko, Nevada",
+      "description": "23 Miles N from Wells, NV",
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -115.036467,
+        41.445417
+      ],
+      "observed_at": "2026-08-24T17:28:00Z",
+      "magnitude_value": 667,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-NVEKD-010519"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23659"
+    },
+    {
       "id": "EONET_23457",
       "title": "Wildfire S-1 VYA, Washoe, Nevada",
       "description": "3 Miles N from VYA, NV",
@@ -87267,6 +87996,33 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23457"
+    },
+    {
+      "id": "EONET_23671",
+      "title": "Wildfire Rio Escondido, Hamilton, Texas",
+      "description": "2 Miles NE from Evant, TX",
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -98.12037,
+        31.49444497
+      ],
+      "observed_at": "2026-08-24T15:31:00Z",
+      "magnitude_value": 2713,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-TXTXS-267552"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23671"
     },
     {
       "id": "EONET_23459",
@@ -101051,6 +101807,33 @@
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23393"
     },
     {
+      "id": "EONET_23661",
+      "title": "Wildfire Nature Grove, Ravalli, Montana",
+      "description": "15 Miles SE from Hamilton, MT",
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -113.924333,
+        46.1535
+      ],
+      "observed_at": "2026-08-23T19:42:00Z",
+      "magnitude_value": 1141,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-MTBRF-000340"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23661"
+    },
+    {
       "id": "EONET_23289",
       "title": "Wildfire in Tanzania 1031054",
       "description": null,
@@ -101618,6 +102401,87 @@
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225"
     },
     {
+      "id": "EONET_23665",
+      "title": "Wildfire Parker Lake, Boundary, Idaho",
+      "description": "9 Miles W from Copeland, ID",
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -116.6247,
+        48.870133
+      ],
+      "observed_at": "2026-08-23T16:30:00Z",
+      "magnitude_value": 1403,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-IDIPF-000702"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23665"
+    },
+    {
+      "id": "EONET_23662",
+      "title": "Wildfire Campwood, Yavapai, Arizona",
+      "description": "5 Miles NE from Bagdad, AZ",
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -113.10128,
+        34.6253
+      ],
+      "observed_at": "2026-08-23T15:34:00Z",
+      "magnitude_value": 1215,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-AZA5S-261347"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23662"
+    },
+    {
+      "id": "EONET_23680",
+      "title": "Wildfire Silver, Boundary, Idaho",
+      "description": "8 Miles NW from SANDPOINT, ID",
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -116.660283,
+        48.628867
+      ],
+      "observed_at": "2026-08-23T14:02:00Z",
+      "magnitude_value": 2424,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-IDIPF-000697"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23680"
+    },
+    {
       "id": "EONET_23215",
       "title": "Wildfire Rustler, Motley, Texas",
       "description": "10 Miles SW from Roaring Springs, TX",
@@ -101697,6 +102561,33 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23454"
+    },
+    {
+      "id": "EONET_23679",
+      "title": "Wildfire GOAT, Kittitas, Washington",
+      "description": "15 Miles N from Ronald, WA",
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -121.052783,
+        47.458917
+      ],
+      "observed_at": "2026-08-22T21:06:00Z",
+      "magnitude_value": 707,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-WAOWF-260711"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23679"
     },
     {
       "id": "EONET_23219",
@@ -105206,6 +106097,33 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23469"
+    },
+    {
+      "id": "EONET_23684",
+      "title": "Wildfire Thunder Creek, Skagit, Washington",
+      "description": null,
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -121.0287,
+        48.549617
+      ],
+      "observed_at": "2026-08-22T19:27:00Z",
+      "magnitude_value": 648,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-WANCP-000482"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23684"
     },
     {
       "id": "EONET_23232",
@@ -179125,11 +180043,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        121,
-        28.1
+        112.9,
+        19.5
       ],
-      "observed_at": "2026-08-28T00:00:00Z",
-      "magnitude_value": 55,
+      "observed_at": "2026-09-01T00:00:00Z",
+      "magnitude_value": 25,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -245432,2008 +246350,6 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23441"
-    },
-    {
-      "id": "EONET_23442",
-      "title": "Wildfire in Australia 1031209",
-      "description": null,
-      "closed_at": "2026-08-26T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        132.07237073548,
-        -12.791419209053
-      ],
-      "observed_at": "2026-08-16T19:00:00Z",
-      "magnitude_value": 5142,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031209"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23442"
-    },
-    {
-      "id": "EONET_23516",
-      "title": "Wildfire in The Democratic Republic of Congo 1031240",
-      "description": null,
-      "closed_at": "2026-08-26T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        17.499131793564,
-        -5.362769592148
-      ],
-      "observed_at": "2026-08-16T19:00:00Z",
-      "magnitude_value": 8611,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031240"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23516"
-    },
-    {
-      "id": "EONET_23517",
-      "title": "Wildfire in The Democratic Republic of Congo 1031241",
-      "description": null,
-      "closed_at": "2026-08-26T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        16.202012966368,
-        -5.7166019755519
-      ],
-      "observed_at": "2026-08-16T19:00:00Z",
-      "magnitude_value": 7342,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031241"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23517"
-    },
-    {
-      "id": "EONET_23518",
-      "title": "Wildfire in The Democratic Republic of Congo 1031242",
-      "description": null,
-      "closed_at": "2026-08-26T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        17.489814538594,
-        -3.0100615257623
-      ],
-      "observed_at": "2026-08-16T19:00:00Z",
-      "magnitude_value": 5029,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031242"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23518"
-    },
-    {
-      "id": "EONET_23519",
-      "title": "Wildfire in Russian Federation 1031259",
-      "description": null,
-      "closed_at": "2026-08-26T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        107.23147878027,
-        63.693660504152
-      ],
-      "observed_at": "2026-08-16T19:00:00Z",
-      "magnitude_value": 5055,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031259"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23519"
-    },
-    {
-      "id": "EONET_23575",
-      "title": "Wildfire in Montenegro 1031300",
-      "description": null,
-      "closed_at": "2026-08-28T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        18.904938382066,
-        42.653182151694
-      ],
-      "observed_at": "2026-08-16T19:00:00Z",
-      "magnitude_value": 6498,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031300"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23575"
-    },
-    {
-      "id": "EONET_23606",
-      "title": "Wildfire in Angola 1031337",
-      "description": null,
-      "closed_at": "2026-08-28T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        15.542699464265,
-        -13.94822453512
-      ],
-      "observed_at": "2026-08-16T19:00:00Z",
-      "magnitude_value": 5151,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031337"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23606"
-    },
-    {
-      "id": "EONET_23607",
-      "title": "Wildfire in Angola 1031338",
-      "description": null,
-      "closed_at": "2026-08-28T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        15.859997400741,
-        -14.069731951111
-      ],
-      "observed_at": "2026-08-16T19:00:00Z",
-      "magnitude_value": 5142,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031338"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23607"
-    },
-    {
-      "id": "EONET_23608",
-      "title": "Wildfire in Russian Federation 1031344",
-      "description": null,
-      "closed_at": "2026-08-29T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        105.48985292364,
-        64.776724958626
-      ],
-      "observed_at": "2026-08-16T19:00:00Z",
-      "magnitude_value": 6532,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031344"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23608"
-    },
-    {
-      "id": "EONET_23655",
-      "title": "Wildfire in The Democratic Republic of Congo 1031370",
-      "description": null,
-      "closed_at": "2026-08-30T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        25.362742221429,
-        -9.8354768653459
-      ],
-      "observed_at": "2026-08-16T19:00:00Z",
-      "magnitude_value": 6709,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031370"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23655"
-    },
-    {
-      "id": "EONET_22798",
-      "title": "Wildfire Picture Rock, Lake, Oregon",
-      "description": "3 Miles N from Summer Lake, OR",
-      "closed_at": null,
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        -120.774487,
-        43.00919
-      ],
-      "observed_at": "2026-08-16T15:55:00Z",
-      "magnitude_value": 1625,
-      "magnitude_unit": "acres",
-      "sources": [
-        {
-          "id": "IRWIN",
-          "url": "https://irwin.doi.gov/observer/incidents/2026-ORLAD-260313"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798"
-    },
-    {
-      "id": "EONET_22932",
-      "title": "Wildfire Jackson - Hwy 90, Jackson, Mississippi",
-      "description": "5 Miles NE from Moss Point, MS",
-      "closed_at": null,
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        -88.4663889,
-        30.4175
-      ],
-      "observed_at": "2026-08-16T15:16:00Z",
-      "magnitude_value": 1428,
-      "magnitude_unit": "acres",
-      "sources": [
-        {
-          "id": "IRWIN",
-          "url": "https://irwin.doi.gov/observer/incidents/2026-MSMSS-018314"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22932"
-    },
-    {
-      "id": "EONET_22800",
-      "title": "Wildfire CATO 2, Chaves, New Mexico",
-      "description": "40 Miles NE from Roswell, NM",
-      "closed_at": null,
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        -103.9452,
-        33.50765
-      ],
-      "observed_at": "2026-08-15T23:18:00Z",
-      "magnitude_value": 2080,
-      "magnitude_unit": "acres",
-      "sources": [
-        {
-          "id": "IRWIN",
-          "url": "https://irwin.doi.gov/observer/incidents/2026-NMROD-000632"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800"
-    },
-    {
-      "id": "EONET_22791",
-      "title": "Wildfire THE H1, Palm Beach, Florida",
-      "description": "5 Miles W from DEEM CITY, FL",
-      "closed_at": null,
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        -80.7516667,
-        26.3688889
-      ],
-      "observed_at": "2026-08-15T22:19:00Z",
-      "magnitude_value": 3600,
-      "magnitude_unit": "acres",
-      "sources": [
-        {
-          "id": "IRWIN",
-          "url": "https://irwin.doi.gov/observer/incidents/2026-FLFLS-1800136"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791"
-    },
-    {
-      "id": "EONET_22799",
-      "title": "Wildfire THE RADIO TOWER, Miami-Dade, Florida",
-      "description": "5 Miles W from KENDALE LAKES, FL",
-      "closed_at": null,
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        -80.4744444,
-        25.7111111
-      ],
-      "observed_at": "2026-08-15T22:06:00Z",
-      "magnitude_value": 700,
-      "magnitude_unit": "acres",
-      "sources": [
-        {
-          "id": "IRWIN",
-          "url": "https://irwin.doi.gov/observer/incidents/2026-FLFLS-1800132"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22799"
-    },
-    {
-      "id": "EONET_23077",
-      "title": "Flood in Uruguay 1104112",
-      "description": null,
-      "closed_at": "2026-08-17T00:00:00Z",
-      "categories": [
-        {
-          "id": "floods",
-          "title": "Floods"
-        }
-      ],
-      "geometry_type": "Polygon",
-      "coordinates": [
-        [
-          [
-            -32.3935153,
-            -54.1677787
-          ],
-          [
-            -32.3935153,
-            -54.167039
-          ],
-          [
-            -32.3932923,
-            -54.1662887
-          ],
-          [
-            -32.3928193,
-            -54.1653693
-          ],
-          [
-            -32.3923821,
-            -54.1648832
-          ],
-          [
-            -32.3917069,
-            -54.1643916
-          ],
-          [
-            -32.3912148,
-            -54.1639582
-          ],
-          [
-            -32.3914419,
-            -54.1628373
-          ],
-          [
-            -32.3918457,
-            -54.162105
-          ],
-          [
-            -32.3916564,
-            -54.1616418
-          ],
-          [
-            -32.3923636,
-            -54.1590599
-          ],
-          [
-            -32.3921289,
-            -54.156975
-          ],
-          [
-            -32.3917719,
-            -54.1565735
-          ],
-          [
-            -32.3905048,
-            -54.1541852
-          ],
-          [
-            -32.3895411,
-            -54.1533399
-          ],
-          [
-            -32.3886845,
-            -54.152114
-          ],
-          [
-            -32.3883454,
-            -54.1516702
-          ],
-          [
-            -32.3879706,
-            -54.1507439
-          ],
-          [
-            -32.3882562,
-            -54.1502261
-          ],
-          [
-            -32.3882383,
-            -54.1497823
-          ],
-          [
-            -32.3883811,
-            -54.1493279
-          ],
-          [
-            -32.3884168,
-            -54.1488946
-          ],
-          [
-            -32.3881134,
-            -54.1486304
-          ],
-          [
-            -32.3877207,
-            -54.1488312
-          ],
-          [
-            -32.3874709,
-            -54.1486304
-          ],
-          [
-            -32.386873,
-            -54.1487044
-          ],
-          [
-            -32.3865607,
-            -54.1484191
-          ],
-          [
-            -32.3864982,
-            -54.1481021
-          ],
-          [
-            -32.3859539,
-            -54.1483451
-          ],
-          [
-            -32.3856985,
-            -54.1480735
-          ],
-          [
-            -32.3854798,
-            -54.1480153
-          ],
-          [
-            -32.3852093,
-            -54.1479011
-          ],
-          [
-            -32.3851146,
-            -54.147845
-          ],
-          [
-            -32.3850647,
-            -54.1475773
-          ],
-          [
-            -32.3858111,
-            -54.1458137
-          ],
-          [
-            -32.3864453,
-            -54.1443627
-          ],
-          [
-            -32.3867718,
-            -54.1437061
-          ],
-          [
-            -32.3869696,
-            -54.143381
-          ],
-          [
-            -32.3872686,
-            -54.1429102
-          ],
-          [
-            -32.384952,
-            -54.1408773
-          ],
-          [
-            -32.3827764,
-            -54.1445199
-          ],
-          [
-            -32.3798716,
-            -54.1446575
-          ],
-          [
-            -32.3798436,
-            -54.1437339
-          ],
-          [
-            -32.378598,
-            -54.1371657
-          ],
-          [
-            -32.3719307,
-            -54.1362489
-          ],
-          [
-            -32.3682125,
-            -54.1359772
-          ],
-          [
-            -32.3668768,
-            -54.1361981
-          ],
-          [
-            -32.3645719,
-            -54.1369185
-          ],
-          [
-            -32.3627127,
-            -54.1411301
-          ],
-          [
-            -32.359388,
-            -54.146277
-          ],
-          [
-            -32.3594172,
-            -54.1463212
-          ],
-          [
-            -32.359504,
-            -54.1468866
-          ],
-          [
-            -32.3595675,
-            -54.1488739
-          ],
-          [
-            -32.3589331,
-            -54.1487964
-          ],
-          [
-            -32.3587817,
-            -54.1506414
-          ],
-          [
-            -32.3557913,
-            -54.1501315
-          ],
-          [
-            -32.3557556,
-            -54.1505331
-          ],
-          [
-            -32.352014,
-            -54.1501819
-          ],
-          [
-            -32.3494779,
-            -54.1498232
-          ],
-          [
-            -32.3492519,
-            -54.1525501
-          ],
-          [
-            -32.3494422,
-            -54.1527292
-          ],
-          [
-            -32.3493534,
-            -54.1529457
-          ],
-          [
-            -32.3478164,
-            -54.1573405
-          ],
-          [
-            -32.3477643,
-            -54.1575685
-          ],
-          [
-            -32.3505673,
-            -54.1588372
-          ],
-          [
-            -32.3494876,
-            -54.1626915
-          ],
-          [
-            -32.3493831,
-            -54.1640423
-          ],
-          [
-            -32.3485867,
-            -54.1640135
-          ],
-          [
-            -32.348664,
-            -54.1673499
-          ],
-          [
-            -32.3485322,
-            -54.1673947
-          ],
-          [
-            -32.3485495,
-            -54.1686528
-          ],
-          [
-            -32.3415944,
-            -54.1681941
-          ],
-          [
-            -32.3415815,
-            -54.1683215
-          ],
-          [
-            -32.3416449,
-            -54.1686434
-          ],
-          [
-            -32.341722,
-            -54.1691691
-          ],
-          [
-            -32.3417673,
-            -54.1693354
-          ],
-          [
-            -32.3418715,
-            -54.1695071
-          ],
-          [
-            -32.3421571,
-            -54.1699791
-          ],
-          [
-            -32.3423429,
-            -54.1702366
-          ],
-          [
-            -32.3424063,
-            -54.1702634
-          ],
-          [
-            -32.3424879,
-            -54.1702795
-          ],
-          [
-            -32.3425559,
-            -54.1703868
-          ],
-          [
-            -32.3426692,
-            -54.1707248
-          ],
-          [
-            -32.3428403,
-            -54.1710542
-          ],
-          [
-            -32.3428822,
-            -54.1712183
-          ],
-          [
-            -32.3429185,
-            -54.1713202
-          ],
-          [
-            -32.3430272,
-            -54.171449
-          ],
-          [
-            -32.3431904,
-            -54.1716153
-          ],
-          [
-            -32.343272,
-            -54.1716046
-          ],
-          [
-            -32.3433626,
-            -54.1714704
-          ],
-          [
-            -32.3434839,
-            -54.1712956
-          ],
-          [
-            -32.3436108,
-            -54.171081
-          ],
-          [
-            -32.3437241,
-            -54.1709361
-          ],
-          [
-            -32.3438566,
-            -54.1708911
-          ],
-          [
-            -32.3439518,
-            -54.170934
-          ],
-          [
-            -32.3440515,
-            -54.1710413
-          ],
-          [
-            -32.3442147,
-            -54.1712934
-          ],
-          [
-            -32.344328,
-            -54.1713685
-          ],
-          [
-            -32.3444413,
-            -54.1713846
-          ],
-          [
-            -32.3445863,
-            -54.1713149
-          ],
-          [
-            -32.3447891,
-            -54.171199
-          ],
-          [
-            -32.3451392,
-            -54.1709823
-          ],
-          [
-            -32.3453024,
-            -54.1709608
-          ],
-          [
-            -32.3453794,
-            -54.1710306
-          ],
-          [
-            -32.3454429,
-            -54.1711593
-          ],
-          [
-            -32.3456196,
-            -54.1717762
-          ],
-          [
-            -32.3458326,
-            -54.1724092
-          ],
-          [
-            -32.3458915,
-            -54.1725433
-          ],
-          [
-            -32.3459867,
-            -54.1726023
-          ],
-          [
-            -32.3460909,
-            -54.172715
-          ],
-          [
-            -32.3461431,
-            -54.1728755
-          ],
-          [
-            -32.3462387,
-            -54.1729188
-          ],
-          [
-            -32.3463991,
-            -54.1731552
-          ],
-          [
-            -32.3465482,
-            -54.1734649
-          ],
-          [
-            -32.3466382,
-            -54.1735581
-          ],
-          [
-            -32.3467479,
-            -54.1735748
-          ],
-          [
-            -32.346807,
-            -54.1735515
-          ],
-          [
-            -32.3468323,
-            -54.1734915
-          ],
-          [
-            -32.3468295,
-            -54.1733783
-          ],
-          [
-            -32.3468689,
-            -54.1732318
-          ],
-          [
-            -32.3469279,
-            -54.173052
-          ],
-          [
-            -32.3471417,
-            -54.1728289
-          ],
-          [
-            -32.3472852,
-            -54.172739
-          ],
-          [
-            -32.3476875,
-            -54.172729
-          ],
-          [
-            -32.3480891,
-            -54.1727217
-          ],
-          [
-            -32.348681,
-            -54.1729674
-          ],
-          [
-            -32.3492299,
-            -54.1732748
-          ],
-          [
-            -32.3495773,
-            -54.1734837
-          ],
-          [
-            -32.349952,
-            -54.1736497
-          ],
-          [
-            -32.3502946,
-            -54.1738283
-          ],
-          [
-            -32.3507808,
-            -54.1738796
-          ],
-          [
-            -32.3511119,
-            -54.1737932
-          ],
-          [
-            -32.3513771,
-            -54.1736361
-          ],
-          [
-            -32.3516033,
-            -54.1734782
-          ],
-          [
-            -32.35182,
-            -54.1731279
-          ],
-          [
-            -32.3519128,
-            -54.1728688
-          ],
-          [
-            -32.3521138,
-            -54.1726424
-          ],
-          [
-            -32.3523598,
-            -54.1726111
-          ],
-          [
-            -32.3527089,
-            -54.1726039
-          ],
-          [
-            -32.3531634,
-            -54.1728359
-          ],
-          [
-            -32.3537917,
-            -54.1732142
-          ],
-          [
-            -32.3540851,
-            -54.1732607
-          ],
-          [
-            -32.3544464,
-            -54.1733027
-          ],
-          [
-            -32.3550227,
-            -54.1735018
-          ],
-          [
-            -32.35524,
-            -54.173554
-          ],
-          [
-            -32.3553633,
-            -54.1735427
-          ],
-          [
-            -32.3555151,
-            -54.1734507
-          ],
-          [
-            -32.355701,
-            -54.1732334
-          ],
-          [
-            -32.3558734,
-            -54.173032
-          ],
-          [
-            -32.3560085,
-            -54.1729055
-          ],
-          [
-            -32.3565105,
-            -54.1724697
-          ],
-          [
-            -32.3567388,
-            -54.1722876
-          ],
-          [
-            -32.3572267,
-            -54.1721853
-          ],
-          [
-            -32.3575358,
-            -54.1718786
-          ],
-          [
-            -32.3578059,
-            -54.1716934
-          ],
-          [
-            -32.3581575,
-            -54.1716834
-          ],
-          [
-            -32.3583938,
-            -54.17174
-          ],
-          [
-            -32.3585344,
-            -54.1718266
-          ],
-          [
-            -32.3586104,
-            -54.1719931
-          ],
-          [
-            -32.3587088,
-            -54.1720863
-          ],
-          [
-            -32.3591138,
-            -54.1721093
-          ],
-          [
-            -32.3593884,
-            -54.1720182
-          ],
-          [
-            -32.359793,
-            -54.1718693
-          ],
-          [
-            -32.3604733,
-            -54.1717918
-          ],
-          [
-            -32.3607599,
-            -54.1719476
-          ],
-          [
-            -32.3609322,
-            -54.1722719
-          ],
-          [
-            -32.3613112,
-            -54.172415
-          ],
-          [
-            -32.3616393,
-            -54.1723463
-          ],
-          [
-            -32.3619371,
-            -54.1722395
-          ],
-          [
-            -32.3619539,
-            -54.1726881
-          ],
-          [
-            -32.3619923,
-            -54.1734207
-          ],
-          [
-            -32.3620377,
-            -54.1742867
-          ],
-          [
-            -32.3621125,
-            -54.1825613
-          ],
-          [
-            -32.3583288,
-            -54.1830549
-          ],
-          [
-            -32.3567745,
-            -54.1833231
-          ],
-          [
-            -32.349934,
-            -54.1851094
-          ],
-          [
-            -32.3521297,
-            -54.201019
-          ],
-          [
-            -32.352695,
-            -54.2008672
-          ],
-          [
-            -32.3531503,
-            -54.2008778
-          ],
-          [
-            -32.3534985,
-            -54.2004657
-          ],
-          [
-            -32.3542751,
-            -54.1999584
-          ],
-          [
-            -32.3549178,
-            -54.1996414
-          ],
-          [
-            -32.355757,
-            -54.1990391
-          ],
-          [
-            -32.3561461,
-            -54.1981822
-          ],
-          [
-            -32.3562684,
-            -54.19741
-          ],
-          [
-            -32.3564621,
-            -54.1967946
-          ],
-          [
-            -32.3567373,
-            -54.1964205
-          ],
-          [
-            -32.3571349,
-            -54.1963119
-          ],
-          [
-            -32.3578076,
-            -54.1965894
-          ],
-          [
-            -32.3589085,
-            -54.1970962
-          ],
-          [
-            -32.3598564,
-            -54.1979892
-          ],
-          [
-            -32.3606311,
-            -54.1987735
-          ],
-          [
-            -32.3612732,
-            -54.1993165
-          ],
-          [
-            -32.3617726,
-            -54.199582
-          ],
-          [
-            -32.3627002,
-            -54.199763
-          ],
-          [
-            -32.3636277,
-            -54.1997389
-          ],
-          [
-            -32.3641883,
-            -54.1995941
-          ],
-          [
-            -32.364545,
-            -54.1994251
-          ],
-          [
-            -32.3649221,
-            -54.1987856
-          ],
-          [
-            -32.3650039,
-            -54.1982269
-          ],
-          [
-            -32.3650546,
-            -54.1978806
-          ],
-          [
-            -32.3649017,
-            -54.1969635
-          ],
-          [
-            -32.3648814,
-            -54.1961792
-          ],
-          [
-            -32.3649731,
-            -54.1951052
-          ],
-          [
-            -32.3651619,
-            -54.1951007
-          ],
-          [
-            -32.3656694,
-            -54.1955701
-          ],
-          [
-            -32.3665416,
-            -54.1969594
-          ],
-          [
-            -32.3674512,
-            -54.1964646
-          ],
-          [
-            -32.3678651,
-            -54.1964607
-          ],
-          [
-            -32.369862,
-            -54.1982819
-          ],
-          [
-            -32.3730489,
-            -54.2025728
-          ],
-          [
-            -32.3742471,
-            -54.2049195
-          ],
-          [
-            -32.3743578,
-            -54.2050127
-          ],
-          [
-            -32.374843,
-            -54.2049512
-          ],
-          [
-            -32.3750651,
-            -54.2048422
-          ],
-          [
-            -32.3751464,
-            -54.2043738
-          ],
-          [
-            -32.3749351,
-            -54.2038734
-          ],
-          [
-            -32.3745666,
-            -54.2029175
-          ],
-          [
-            -32.3744312,
-            -54.2024106
-          ],
-          [
-            -32.3744258,
-            -54.2016985
-          ],
-          [
-            -32.3745287,
-            -54.2007233
-          ],
-          [
-            -32.3744041,
-            -54.2001651
-          ],
-          [
-            -32.3747454,
-            -54.1999085
-          ],
-          [
-            -32.3748376,
-            -54.1994145
-          ],
-          [
-            -32.3750868,
-            -54.1989333
-          ],
-          [
-            -32.3757153,
-            -54.1984842
-          ],
-          [
-            -32.3767015,
-            -54.19774
-          ],
-          [
-            -32.3772433,
-            -54.1969573
-          ],
-          [
-            -32.3778447,
-            -54.1960206
-          ],
-          [
-            -32.3784516,
-            -54.1956742
-          ],
-          [
-            -32.3785979,
-            -54.1951866
-          ],
-          [
-            -32.3784895,
-            -54.1948979
-          ],
-          [
-            -32.3781969,
-            -54.194468
-          ],
-          [
-            -32.3780019,
-            -54.1936468
-          ],
-          [
-            -32.3778198,
-            -54.1923675
-          ],
-          [
-            -32.3777407,
-            -54.1911936
-          ],
-          [
-            -32.3771507,
-            -54.19025
-          ],
-          [
-            -32.3761009,
-            -54.1896512
-          ],
-          [
-            -32.3758079,
-            -54.1895735
-          ],
-          [
-            -32.3750741,
-            -54.189379
-          ],
-          [
-            -32.374484,
-            -54.1890161
-          ],
-          [
-            -32.3736949,
-            -54.1875205
-          ],
-          [
-            -32.3728519,
-            -54.1870941
-          ],
-          [
-            -32.3724611,
-            -54.1861777
-          ],
-          [
-            -32.3725378,
-            -54.1855743
-          ],
-          [
-            -32.3724127,
-            -54.1851717
-          ],
-          [
-            -32.3719209,
-            -54.1845083
-          ],
-          [
-            -32.3712151,
-            -54.1832255
-          ],
-          [
-            -32.3719522,
-            -54.1829235
-          ],
-          [
-            -32.374703,
-            -54.1814979
-          ],
-          [
-            -32.3751732,
-            -54.1811857
-          ],
-          [
-            -32.3757373,
-            -54.1808576
-          ],
-          [
-            -32.3764662,
-            -54.1799666
-          ],
-          [
-            -32.3769977,
-            -54.1790852
-          ],
-          [
-            -32.3775944,
-            -54.1777621
-          ],
-          [
-            -32.3781261,
-            -54.1769817
-          ],
-          [
-            -32.3785738,
-            -54.1765119
-          ],
-          [
-            -32.3791623,
-            -54.1759862
-          ],
-          [
-            -32.3802242,
-            -54.175447
-          ],
-          [
-            -32.3813622,
-            -54.1748543
-          ],
-          [
-            -32.3827045,
-            -54.1739595
-          ],
-          [
-            -32.3846687,
-            -54.1722782
-          ],
-          [
-            -32.3856573,
-            -54.1712012
-          ],
-          [
-            -32.3861713,
-            -54.1703895
-          ],
-          [
-            -32.3865936,
-            -54.1695365
-          ],
-          [
-            -32.3871834,
-            -54.169028
-          ],
-          [
-            -32.3878389,
-            -54.1686423
-          ],
-          [
-            -32.3884735,
-            -54.168491
-          ],
-          [
-            -32.3924802,
-            -54.1683134
-          ],
-          [
-            -32.3933906,
-            -54.1684209
-          ],
-          [
-            -32.3935153,
-            -54.1677787
-          ]
-        ]
-      ],
-      "observed_at": "2026-08-15T20:00:00Z",
-      "magnitude_value": null,
-      "magnitude_unit": null,
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104112"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23077"
-    },
-    {
-      "id": "EONET_22797",
-      "title": "Wildfire BIGFOOT, Ada, Idaho",
-      "description": "25 Miles W from MOUNTAIN HOME, ID",
-      "closed_at": "2026-08-16T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        -116.240228,
-        43.124234
-      ],
-      "observed_at": "2026-08-15T19:43:00Z",
-      "magnitude_value": 1135.2,
-      "magnitude_unit": "acres",
-      "sources": [
-        {
-          "id": "IRWIN",
-          "url": "https://irwin.doi.gov/observer/incidents/2026-IDBOD-000941"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22797"
-    },
-    {
-      "id": "EONET_22743",
-      "title": "Wildfire in Australia 1030608",
-      "description": null,
-      "closed_at": "2026-08-16T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        130.2337787133,
-        -20.506462991016
-      ],
-      "observed_at": "2026-08-15T19:00:00Z",
-      "magnitude_value": 5380,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030608"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22743"
-    },
-    {
-      "id": "EONET_22744",
-      "title": "Wildfire in Brazil 1030606",
-      "description": null,
-      "closed_at": "2026-08-16T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        -55.473891519192,
-        -7.374335577285
-      ],
-      "observed_at": "2026-08-15T19:00:00Z",
-      "magnitude_value": 8106,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030606"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22744"
-    },
-    {
-      "id": "EONET_22812",
-      "title": "Wildfire in Brazil 1030658",
-      "description": null,
-      "closed_at": "2026-08-17T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        -46.36043607354,
-        -11.331171866817
-      ],
-      "observed_at": "2026-08-15T19:00:00Z",
-      "magnitude_value": 5166,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030658"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22812"
-    },
-    {
-      "id": "EONET_22813",
-      "title": "Wildfire in Angola 1030625",
-      "description": null,
-      "closed_at": "2026-08-16T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        20.50112386132,
-        -8.7010259878291
-      ],
-      "observed_at": "2026-08-15T19:00:00Z",
-      "magnitude_value": 6024,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030625"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22813"
-    },
-    {
-      "id": "EONET_22814",
-      "title": "Wildfire in Kazakhstan 1030622",
-      "description": null,
-      "closed_at": "2026-08-16T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        75.312920169107,
-        49.940414910226
-      ],
-      "observed_at": "2026-08-15T19:00:00Z",
-      "magnitude_value": 6857,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030622"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22814"
-    },
-    {
-      "id": "EONET_22855",
-      "title": "Wildfire in Tanzania 1030671",
-      "description": null,
-      "closed_at": "2026-08-18T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        34.757801221441,
-        -7.2395994564349
-      ],
-      "observed_at": "2026-08-15T19:00:00Z",
-      "magnitude_value": 7638,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030671"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22855"
-    },
-    {
-      "id": "EONET_22856",
-      "title": "Wildfire in Australia 1030732",
-      "description": null,
-      "closed_at": "2026-08-18T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        135.17613553417,
-        -15.376729206244
-      ],
-      "observed_at": "2026-08-15T19:00:00Z",
-      "magnitude_value": 5055,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030732"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22856"
-    },
-    {
-      "id": "EONET_22857",
-      "title": "Wildfire in The Democratic Republic of Congo 1030669",
-      "description": null,
-      "closed_at": "2026-08-17T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        18.421655392279,
-        -4.2255085255752
-      ],
-      "observed_at": "2026-08-15T19:00:00Z",
-      "magnitude_value": 5086,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030669"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22857"
-    },
-    {
-      "id": "EONET_22858",
-      "title": "Wildfire in The Democratic Republic of Congo 1030670",
-      "description": null,
-      "closed_at": "2026-08-17T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        18.594652614593,
-        -4.2282290879134
-      ],
-      "observed_at": "2026-08-15T19:00:00Z",
-      "magnitude_value": 7384,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030670"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22858"
-    },
-    {
-      "id": "EONET_22859",
-      "title": "Wildfire in The Democratic Republic of Congo 1030672",
-      "description": null,
-      "closed_at": "2026-08-17T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        19.756538050693,
-        -5.0826483317109
-      ],
-      "observed_at": "2026-08-15T19:00:00Z",
-      "magnitude_value": 5568,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030672"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22859"
-    },
-    {
-      "id": "EONET_22860",
-      "title": "Wildfire in The Democratic Republic of Congo 1030673",
-      "description": null,
-      "closed_at": "2026-08-17T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        17.718070313889,
-        -4.9543010914887
-      ],
-      "observed_at": "2026-08-15T19:00:00Z",
-      "magnitude_value": 6160,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030673"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22860"
-    },
-    {
-      "id": "EONET_22861",
-      "title": "Wildfire in Brazil 1030674",
-      "description": null,
-      "closed_at": "2026-08-17T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        -47.261732269545,
-        -9.79004169118
-      ],
-      "observed_at": "2026-08-15T19:00:00Z",
-      "magnitude_value": 5428,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030674"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22861"
-    },
-    {
-      "id": "EONET_22862",
-      "title": "Wildfire in The Democratic Republic of Congo 1030675",
-      "description": null,
-      "closed_at": "2026-08-17T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        17.759845742415,
-        -5.0513128970549
-      ],
-      "observed_at": "2026-08-15T19:00:00Z",
-      "magnitude_value": 7267,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030675"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22862"
-    },
-    {
-      "id": "EONET_22863",
-      "title": "Wildfire in The Democratic Republic of Congo 1030676",
-      "description": null,
-      "closed_at": "2026-08-17T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        17.681896855672,
-        -5.0934554110435
-      ],
-      "observed_at": "2026-08-15T19:00:00Z",
-      "magnitude_value": 6091,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030676"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22863"
-    },
-    {
-      "id": "EONET_22864",
-      "title": "Wildfire in The Democratic Republic of Congo 1030677",
-      "description": null,
-      "closed_at": "2026-08-17T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        26.412931233262,
-        -7.444535581375
-      ],
-      "observed_at": "2026-08-15T19:00:00Z",
-      "magnitude_value": 5452,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030677"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22864"
-    },
-    {
-      "id": "EONET_22949",
-      "title": "Wildfire in Angola 1030797",
-      "description": null,
-      "closed_at": "2026-08-19T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        19.885263897472,
-        -8.8384779156871
-      ],
-      "observed_at": "2026-08-15T19:00:00Z",
-      "magnitude_value": 5182,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030797"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22949"
-    },
-    {
-      "id": "EONET_22950",
-      "title": "Wildfire in Brazil 1030747",
-      "description": null,
-      "closed_at": "2026-08-19T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        -46.370695279693,
-        -11.350306004296
-      ],
-      "observed_at": "2026-08-15T19:00:00Z",
-      "magnitude_value": 7918,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030747"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22950"
     }
   ]
 }
