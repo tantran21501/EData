@@ -3,7 +3,7 @@
   "dataset": "natural_events",
   "source": "NASA EONET",
   "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=all&days=30&limit=500",
-  "generated_at": "2026-09-01T18:35:30.858Z",
+  "generated_at": "2026-09-02T04:41:08.589Z",
   "period": "past_30_days",
   "count": 500,
   "items": [
@@ -62832,11 +62832,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -128.5,
-        18
+        -129.4,
+        18.1
       ],
-      "observed_at": "2026-09-01T12:00:00Z",
-      "magnitude_value": 120,
+      "observed_at": "2026-09-01T18:00:00Z",
+      "magnitude_value": 115,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -62848,7 +62848,7 @@
     },
     {
       "id": "EONET_23612",
-      "title": "Tropical Storm Lowell",
+      "title": "Hurricane Lowell",
       "description": null,
       "closed_at": null,
       "categories": [
@@ -62859,11 +62859,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -149,
-        13.4
+        -149.9,
+        13.5
       ],
-      "observed_at": "2026-09-01T12:00:00Z",
-      "magnitude_value": 65,
+      "observed_at": "2026-09-01T18:00:00Z",
+      "magnitude_value": 80,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -202888,11 +202888,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        115.7,
-        20.8
+        116.3,
+        21.4
       ],
-      "observed_at": "2026-09-01T12:00:00Z",
-      "magnitude_value": 35,
+      "observed_at": "2026-09-01T18:00:00Z",
+      "magnitude_value": 30,
       "magnitude_unit": "kts",
       "sources": [
         {
