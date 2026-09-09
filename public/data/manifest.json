@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-09T20:58:47.529Z",
+  "generated_at": "2026-09-09T23:18:33.721Z",
   "dispatcher_schedule": "Every 3 hours at minute 17 UTC",
   "estimated_max_upstream_requests_per_day": 44,
   "datasets": {
@@ -36,7 +36,7 @@
       "file": "day-night.json",
       "interval_hours": 24,
       "request_budget_per_run": 0,
-      "last_success_at": "2026-09-08T21:13:31.047Z",
+      "last_success_at": "2026-09-09T23:18:33.720Z",
       "last_error": null
     }
   }
