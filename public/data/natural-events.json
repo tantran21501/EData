@@ -3,7 +3,7 @@
   "dataset": "natural_events",
   "source": "NASA EONET",
   "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=all&days=30&limit=500",
-  "generated_at": "2026-09-13T20:53:35.721Z",
+  "generated_at": "2026-09-14T05:02:13.266Z",
   "period": "past_30_days",
   "count": 500,
   "items": [
@@ -1265,10 +1265,10 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -132.1,
-        18.1
+        -133.4,
+        18.6
       ],
-      "observed_at": "2026-09-13T12:00:00Z",
+      "observed_at": "2026-09-13T18:00:00Z",
       "magnitude_value": 45,
       "magnitude_unit": "kts",
       "sources": [
@@ -86009,7 +86009,7 @@
       "id": "EONET_23800",
       "title": "Cyclone Marie",
       "description": null,
-      "closed_at": null,
+      "closed_at": "2026-09-13T00:00:00Z",
       "categories": [
         {
           "id": "severeStorms",
