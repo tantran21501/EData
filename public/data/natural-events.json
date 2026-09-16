@@ -3,7 +3,7 @@
   "dataset": "natural_events",
   "source": "NASA EONET",
   "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=all&days=30&limit=500",
-  "generated_at": "2026-09-15T21:25:10.258Z",
+  "generated_at": "2026-09-16T04:54:22.931Z",
   "period": "past_30_days",
   "count": 500,
   "items": [
@@ -4299,7 +4299,7 @@
     },
     {
       "id": "EONET_24184",
-      "title": "Tropical Storm Norbert",
+      "title": "Cyclone Norbert",
       "description": null,
       "closed_at": null,
       "categories": [
@@ -4310,10 +4310,10 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -141.1,
-        20.2
+        -142.4,
+        20.4
       ],
-      "observed_at": "2026-09-15T06:00:00Z",
+      "observed_at": "2026-09-15T12:00:00Z",
       "magnitude_value": 30,
       "magnitude_unit": "kts",
       "sources": [
