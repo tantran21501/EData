@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-17T21:26:47.313Z",
+  "generated_at": "2026-09-18T04:50:02.832Z",
   "dispatcher_schedule": "Every 3 hours at minute 17 UTC",
   "estimated_max_upstream_requests_per_day": 44,
   "datasets": {
@@ -8,7 +8,7 @@
       "file": "earthquakes.json",
       "interval_hours": 3,
       "request_budget_per_run": 1,
-      "last_success_at": "2026-09-17T21:26:30.941Z",
+      "last_success_at": "2026-09-18T04:49:44.886Z",
       "last_error": null
     },
     "naturalEvents": {
@@ -16,13 +16,13 @@
       "interval_hours": 6,
       "request_budget_per_run": 1,
       "last_success_at": "2026-09-17T21:26:36.032Z",
-      "last_error": null
+      "last_error": "HTTP 500 for https://eonet.gsfc.nasa.gov/api/v3/events?status=all&days=30&limit=500"
     },
     "satellites": {
       "file": "satellites.json",
       "interval_hours": 12,
       "request_budget_per_run": 4,
-      "last_success_at": "2026-09-17T11:47:45.097Z",
+      "last_success_at": "2026-09-18T04:49:51.616Z",
       "last_error": null
     },
     "spaceWeather": {
