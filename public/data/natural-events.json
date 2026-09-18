@@ -3,7 +3,7 @@
   "dataset": "natural_events",
   "source": "NASA EONET",
   "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=all&days=30&limit=500",
-  "generated_at": "2026-09-17T21:26:36.012Z",
+  "generated_at": "2026-09-18T11:22:18.992Z",
   "period": "past_30_days",
   "count": 500,
   "items": [
@@ -90,7 +90,7 @@
     },
     {
       "id": "EONET_24317",
-      "title": "Tropical Storm Dujuan",
+      "title": "Typhoon Dujuan",
       "description": null,
       "closed_at": null,
       "categories": [
@@ -101,11 +101,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        148.6,
-        22.8
+        144.5,
+        25.1
       ],
-      "observed_at": "2026-09-17T12:00:00Z",
-      "magnitude_value": 55,
+      "observed_at": "2026-09-18T00:00:00Z",
+      "magnitude_value": 60,
       "magnitude_unit": "kts",
       "sources": [
         {
