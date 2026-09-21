@@ -3,7 +3,7 @@
   "dataset": "natural_events",
   "source": "NASA EONET",
   "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=all&days=30&limit=500",
-  "generated_at": "2026-09-21T05:02:36.679Z",
+  "generated_at": "2026-09-21T12:55:08.403Z",
   "period": "past_30_days",
   "count": 500,
   "items": [
@@ -66097,11 +66097,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        138.7,
-        32.4
+        139.8,
+        33.7
       ],
-      "observed_at": "2026-09-21T00:00:00Z",
-      "magnitude_value": 65,
+      "observed_at": "2026-09-21T06:00:00Z",
+      "magnitude_value": 70,
       "magnitude_unit": "kts",
       "sources": [
         {
