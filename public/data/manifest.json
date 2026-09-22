@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-22T11:44:58.996Z",
+  "generated_at": "2026-09-22T17:00:50.286Z",
   "dispatcher_schedule": "Every 3 hours at minute 17 UTC",
   "estimated_max_upstream_requests_per_day": 44,
   "datasets": {
@@ -8,7 +8,7 @@
       "file": "earthquakes.json",
       "interval_hours": 3,
       "request_budget_per_run": 1,
-      "last_success_at": "2026-09-22T11:44:46.791Z",
+      "last_success_at": "2026-09-22T17:00:38.991Z",
       "last_error": null
     },
     "naturalEvents": {
