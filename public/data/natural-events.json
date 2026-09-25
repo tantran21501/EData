@@ -3,7 +3,7 @@
   "dataset": "natural_events",
   "source": "NASA EONET",
   "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=all&days=30&limit=500",
-  "generated_at": "2026-09-24T21:34:00.620Z",
+  "generated_at": "2026-09-25T05:02:40.454Z",
   "period": "past_30_days",
   "count": 500,
   "items": [
@@ -34623,11 +34623,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -156,
-        14.8
+        -156.2,
+        14.7
       ],
-      "observed_at": "2026-09-24T06:00:00Z",
-      "magnitude_value": 40,
+      "observed_at": "2026-09-24T18:00:00Z",
+      "magnitude_value": 55,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -34650,11 +34650,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        132.5,
-        18.6
+        131.7,
+        19.3
       ],
-      "observed_at": "2026-09-24T12:00:00Z",
-      "magnitude_value": 40,
+      "observed_at": "2026-09-24T18:00:00Z",
+      "magnitude_value": 35,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -34663,6 +34663,33 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787"
+    },
+    {
+      "id": "EONET_24809",
+      "title": "Wildfire Merit Creek, Greene, Mississippi",
+      "description": "4 Miles S from McLain, MS",
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -88.83785,
+        31.052583
+      ],
+      "observed_at": "2026-09-23T10:12:00Z",
+      "magnitude_value": 828,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-MSMNF-000578"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24809"
     },
     {
       "id": "EONET_24788",
@@ -36768,11 +36795,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -103.9,
-        16.7
+        -104.9,
+        16.9
       ],
-      "observed_at": "2026-09-24T12:00:00Z",
-      "magnitude_value": 135,
+      "observed_at": "2026-09-24T18:00:00Z",
+      "magnitude_value": 130,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -39529,10 +39556,10 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -125.8,
-        16.2
+        -125.1,
+        16.6
       ],
-      "observed_at": "2026-09-24T12:00:00Z",
+      "observed_at": "2026-09-24T18:00:00Z",
       "magnitude_value": 80,
       "magnitude_unit": "kts",
       "sources": [
@@ -71999,6 +72026,33 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24795"
+    },
+    {
+      "id": "EONET_24810",
+      "title": "Prescribed Fire CRAWFORD CORRAL RX, Tulare, California",
+      "description": null,
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -118.9721,
+        36.601661
+      ],
+      "observed_at": "2026-09-19T13:26:00Z",
+      "magnitude_value": 690,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-CATUU-000092"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24810"
     },
     {
       "id": "EONET_24633",
@@ -217452,60 +217506,6 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24278"
-    },
-    {
-      "id": "EONET_24301",
-      "title": "Wildfire in Papua New Guinea 1031961",
-      "description": null,
-      "closed_at": "2026-09-13T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        149.59137060902,
-        -5.6510107738989
-      ],
-      "observed_at": "2026-09-07T19:00:00Z",
-      "magnitude_value": 5123,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031961"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24301"
-    },
-    {
-      "id": "EONET_24302",
-      "title": "Wildfire in Zambia 1031948",
-      "description": null,
-      "closed_at": "2026-09-13T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        29.95819380829,
-        -15.534350863367
-      ],
-      "observed_at": "2026-09-07T19:00:00Z",
-      "magnitude_value": 12203,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031948"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24302"
     }
   ]
 }
