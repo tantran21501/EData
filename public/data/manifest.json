@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-26T21:14:50.234Z",
+  "generated_at": "2026-09-26T23:40:37.423Z",
   "dispatcher_schedule": "Every 3 hours at minute 17 UTC",
   "estimated_max_upstream_requests_per_day": 44,
   "datasets": {
@@ -23,7 +23,7 @@
       "interval_hours": 12,
       "request_budget_per_run": 4,
       "last_success_at": "2026-09-26T11:30:12.273Z",
-      "last_error": null
+      "last_error": "HTTP 403 for https://celestrak.org/NORAD/elements/gp.php?GROUP=starlink&FORMAT=json"
     },
     "spaceWeather": {
       "file": "space-weather.json",
