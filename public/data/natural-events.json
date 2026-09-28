@@ -3,7 +3,7 @@
   "dataset": "natural_events",
   "source": "NASA EONET",
   "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=all&days=30&limit=500",
-  "generated_at": "2026-09-27T21:23:56.388Z",
+  "generated_at": "2026-09-28T05:30:16.470Z",
   "period": "past_30_days",
   "count": 500,
   "items": [
@@ -34842,6 +34842,37 @@
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24832"
     },
     {
+      "id": "EONET_24875",
+      "title": "Tropical Storm Rachel",
+      "description": null,
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "severeStorms",
+          "title": "Severe Storms"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -99.5,
+        12.8
+      ],
+      "observed_at": "2026-09-28T00:00:00Z",
+      "magnitude_value": 35,
+      "magnitude_unit": "kts",
+      "sources": [
+        {
+          "id": "JTWC",
+          "url": "https://www.metoc.navy.mil/jtwc/products/ep1826.tcw"
+        },
+        {
+          "id": "NOAA_NHC",
+          "url": "https://www.nhc.noaa.gov/archive/2026/RACHEL.shtml"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24875"
+    },
+    {
       "id": "EONET_24856",
       "title": "Wildfire in Australia 1032424",
       "description": null,
@@ -34962,11 +34993,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -22.4,
-        14.2
+        -23.3,
+        19.3
       ],
-      "observed_at": "2026-09-25T09:00:00Z",
-      "magnitude_value": 40,
+      "observed_at": "2026-09-26T21:00:00Z",
+      "magnitude_value": 35,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -35151,11 +35182,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -157.8,
+        -159.8,
         16.2
       ],
-      "observed_at": "2026-09-27T12:00:00Z",
-      "magnitude_value": 85,
+      "observed_at": "2026-09-28T00:00:00Z",
+      "magnitude_value": 115,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -36221,7 +36252,7 @@
     },
     {
       "id": "EONET_24787",
-      "title": "Typhoon Surigae",
+      "title": "Super Typhoon Surigae",
       "description": null,
       "closed_at": null,
       "categories": [
@@ -36232,11 +36263,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        129.1,
-        25.9
+        130.9,
+        26.6
       ],
-      "observed_at": "2026-09-27T12:00:00Z",
-      "magnitude_value": 125,
+      "observed_at": "2026-09-28T00:00:00Z",
+      "magnitude_value": 120,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -49926,13 +49957,17 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -113.7,
-        20.8
+        -114.1,
+        22.4
       ],
-      "observed_at": "2026-09-27T12:00:00Z",
-      "magnitude_value": 105,
+      "observed_at": "2026-09-28T00:00:00Z",
+      "magnitude_value": 110,
       "magnitude_unit": "kts",
       "sources": [
+        {
+          "id": "EO",
+          "url": "https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo/"
+        },
         {
           "id": "JTWC",
           "url": "https://www.metoc.navy.mil/jtwc/products/ep1726.tcw"
@@ -52795,11 +52830,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -42.8,
-        29.8
+        -44,
+        28.9
       ],
-      "observed_at": "2026-09-25T09:00:00Z",
-      "magnitude_value": 45,
+      "observed_at": "2026-09-27T21:00:00Z",
+      "magnitude_value": 30,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -52822,11 +52857,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -123.4,
-        22.4
+        -123.2,
+        22.7
       ],
-      "observed_at": "2026-09-27T12:00:00Z",
-      "magnitude_value": 55,
+      "observed_at": "2026-09-27T18:00:00Z",
+      "magnitude_value": 40,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -228187,33 +228222,6 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24618"
-    },
-    {
-      "id": "EONET_24619",
-      "title": "Wildfire in Brazil 1032219",
-      "description": null,
-      "closed_at": "2026-09-18T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        -42.823441038114,
-        -11.185006871684
-      ],
-      "observed_at": "2026-09-09T19:00:00Z",
-      "magnitude_value": 5470,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032219"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24619"
     }
   ]
 }
