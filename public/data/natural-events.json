@@ -3,7 +3,7 @@
   "dataset": "natural_events",
   "source": "NASA EONET",
   "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=all&days=30&limit=500",
-  "generated_at": "2026-09-30T05:38:12.121Z",
+  "generated_at": "2026-09-30T12:41:37.528Z",
   "period": "past_30_days",
   "count": 500,
   "items": [
@@ -34951,7 +34951,7 @@
     },
     {
       "id": "EONET_24875",
-      "title": "Tropical Storm Rachel",
+      "title": "Hurricane Rachel",
       "description": null,
       "closed_at": null,
       "categories": [
@@ -34962,11 +34962,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -106.3,
-        16.6
+        -106.9,
+        17.3
       ],
-      "observed_at": "2026-09-30T00:00:00Z",
-      "magnitude_value": 60,
+      "observed_at": "2026-09-30T06:00:00Z",
+      "magnitude_value": 70,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -36590,10 +36590,10 @@
       "geometry_type": "Point",
       "coordinates": [
         -164.2,
-        21.8
+        22.4
       ],
-      "observed_at": "2026-09-30T00:00:00Z",
-      "magnitude_value": 80,
+      "observed_at": "2026-09-30T06:00:00Z",
+      "magnitude_value": 65,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -37864,10 +37864,10 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        137.3,
-        30.2
+        138.3,
+        31.2
       ],
-      "observed_at": "2026-09-30T00:00:00Z",
+      "observed_at": "2026-09-30T06:00:00Z",
       "magnitude_value": 35,
       "magnitude_unit": "kts",
       "sources": [
