@@ -3,7 +3,7 @@
   "dataset": "natural_events",
   "source": "NASA EONET",
   "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=all&days=30&limit=500",
-  "generated_at": "2026-10-03T05:23:35.613Z",
+  "generated_at": "2026-10-03T11:45:07.434Z",
   "period": "past_30_days",
   "count": 500,
   "items": [
@@ -34854,11 +34854,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        144.7,
-        18.1
+        145.3,
+        18.6
       ],
-      "observed_at": "2026-10-02T18:00:00Z",
-      "magnitude_value": 75,
+      "observed_at": "2026-10-03T00:00:00Z",
+      "magnitude_value": 85,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -64351,10 +64351,10 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -110.9,
+        -111.3,
         19.3
       ],
-      "observed_at": "2026-10-02T18:00:00Z",
+      "observed_at": "2026-10-03T00:00:00Z",
       "magnitude_value": 90,
       "magnitude_unit": "kts",
       "sources": [
@@ -84732,11 +84732,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -167.4,
-        23.3
+        -168.1,
+        23.5
       ],
-      "observed_at": "2026-10-02T18:00:00Z",
-      "magnitude_value": 65,
+      "observed_at": "2026-10-03T00:00:00Z",
+      "magnitude_value": 70,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -103240,7 +103240,7 @@
       "id": "EONET_24720",
       "title": "Hurricane Odalys",
       "description": null,
-      "closed_at": null,
+      "closed_at": "2026-10-02T00:00:00Z",
       "categories": [
         {
           "id": "severeStorms",
