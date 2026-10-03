@@ -1,14 +1,14 @@
 {
   "sources": {
     "earthquakes": {
-      "lastAttemptAt": "2026-10-02T22:17:51.908Z",
-      "lastSuccessAt": "2026-10-02T22:17:51.908Z",
+      "lastAttemptAt": "2026-10-03T05:23:32.884Z",
+      "lastSuccessAt": "2026-10-03T05:23:32.884Z",
       "lastError": null,
-      "count": 1971
+      "count": 1986
     },
     "naturalEvents": {
-      "lastAttemptAt": "2026-10-02T17:53:47.261Z",
-      "lastSuccessAt": "2026-10-02T17:53:47.261Z",
+      "lastAttemptAt": "2026-10-03T05:23:35.659Z",
+      "lastSuccessAt": "2026-10-03T05:23:35.659Z",
       "lastError": null,
       "count": 500
     },
@@ -19,12 +19,12 @@
       "count": 16638
     },
     "spaceWeather": {
-      "lastAttemptAt": "2026-10-02T22:18:03.251Z",
+      "lastAttemptAt": "2026-10-03T05:23:47.045Z",
       "lastError": "HTTP 404 for https://services.swpc.noaa.gov/products/solar-wind/mag-7-day.json"
     },
     "dayNight": {
-      "lastAttemptAt": "2026-10-02T00:50:45.419Z",
-      "lastSuccessAt": "2026-10-02T00:50:45.419Z",
+      "lastAttemptAt": "2026-10-03T05:23:47.047Z",
+      "lastSuccessAt": "2026-10-03T05:23:47.047Z",
       "lastError": null,
       "count": null
     }
