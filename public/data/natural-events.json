@@ -3,7 +3,7 @@
   "dataset": "natural_events",
   "source": "NASA EONET",
   "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=all&days=30&limit=500",
-  "generated_at": "2026-10-04T05:59:23.300Z",
+  "generated_at": "2026-10-04T12:27:19.741Z",
   "period": "past_30_days",
   "count": 500,
   "items": [
@@ -35424,11 +35424,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        147.1,
-        22.1
+        147,
+        22.9
       ],
-      "observed_at": "2026-10-04T00:00:00Z",
-      "magnitude_value": 110,
+      "observed_at": "2026-10-04T06:00:00Z",
+      "magnitude_value": 125,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -65056,11 +65056,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -112.6,
-        19.9
+        -113,
+        20.1
       ],
-      "observed_at": "2026-10-04T00:00:00Z",
-      "magnitude_value": 75,
+      "observed_at": "2026-10-04T06:00:00Z",
+      "magnitude_value": 80,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -85491,11 +85491,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -174.2,
-        23.3
+        -175.9,
+        23.5
       ],
-      "observed_at": "2026-10-04T00:00:00Z",
-      "magnitude_value": 105,
+      "observed_at": "2026-10-04T06:00:00Z",
+      "magnitude_value": 95,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -138290,6 +138290,33 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24906"
+    },
+    {
+      "id": "EONET_6474",
+      "title": "Iceberg D35",
+      "description": null,
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "seaLakeIce",
+          "title": "Sea and Lake Ice"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -45.73,
+        -60.27
+      ],
+      "observed_at": "2026-09-18T00:00:00Z",
+      "magnitude_value": 90,
+      "magnitude_unit": "NM^2",
+      "sources": [
+        {
+          "id": "NATICE",
+          "url": "https://usicecenter.gov/pub/Iceberg_Tabular.csv"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6474"
     },
     {
       "id": "EONET_6523",
@@ -254255,33 +254282,6 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24656"
-    },
-    {
-      "id": "EONET_24698",
-      "title": "Wildfire in Mozambique 1032274",
-      "description": null,
-      "closed_at": "2026-09-19T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        37.997986059846,
-        -16.990846079369
-      ],
-      "observed_at": "2026-09-11T19:00:00Z",
-      "magnitude_value": 8351,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032274"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24698"
     }
   ]
 }
