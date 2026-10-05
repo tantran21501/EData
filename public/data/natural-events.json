@@ -3,7 +3,7 @@
   "dataset": "natural_events",
   "source": "NASA EONET",
   "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=all&days=30&limit=500",
-  "generated_at": "2026-10-05T05:48:03.329Z",
+  "generated_at": "2026-10-05T14:48:57.353Z",
   "period": "past_30_days",
   "count": 500,
   "items": [
@@ -35478,11 +35478,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        146.5,
-        25.2
+        146.3,
+        26.3
       ],
-      "observed_at": "2026-10-05T00:00:00Z",
-      "magnitude_value": 130,
+      "observed_at": "2026-10-05T06:00:00Z",
+      "magnitude_value": 115,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -65191,11 +65191,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -114.5,
-        20.1
+        -115.2,
+        20.4
       ],
-      "observed_at": "2026-10-05T00:00:00Z",
-      "magnitude_value": 85,
+      "observed_at": "2026-10-05T06:00:00Z",
+      "magnitude_value": 80,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -85788,10 +85788,10 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        179.3,
-        24.8
+        177.7,
+        25.3
       ],
-      "observed_at": "2026-10-05T00:00:00Z",
+      "observed_at": "2026-10-05T06:00:00Z",
       "magnitude_value": 105,
       "magnitude_unit": "kts",
       "sources": [
@@ -101396,7 +101396,7 @@
       "id": "EONET_24721",
       "title": "Hurricane Polo",
       "description": null,
-      "closed_at": null,
+      "closed_at": "2026-10-05T00:00:00Z",
       "categories": [
         {
           "id": "severeStorms",
