@@ -3,7 +3,7 @@
   "dataset": "natural_events",
   "source": "NASA EONET",
   "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=all&days=30&limit=500",
-  "generated_at": "2026-10-05T22:03:08.824Z",
+  "generated_at": "2026-10-06T06:27:21.928Z",
   "period": "past_30_days",
   "count": 500,
   "items": [
@@ -34896,6 +34896,60 @@
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25034"
     },
     {
+      "id": "EONET_25043",
+      "title": "Prescribed Fire D3 Bear RX, Greenlee, Arizona",
+      "description": null,
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -109.401883,
+        33.447133
+      ],
+      "observed_at": "2026-10-02T17:58:00Z",
+      "magnitude_value": 5072,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-AZASF-000967"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25043"
+    },
+    {
+      "id": "EONET_25042",
+      "title": "Wildfire Bull, Washoe, Nevada",
+      "description": "15 Miles W from Reno, NV",
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -119.987683,
+        39.539067
+      ],
+      "observed_at": "2026-10-02T14:26:00Z",
+      "magnitude_value": 1529,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-NVTMFX-030869"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25042"
+    },
+    {
       "id": "EONET_25029",
       "title": "Flood in Honduras 1104209",
       "description": null,
@@ -49592,6 +49646,33 @@
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25014"
     },
     {
+      "id": "EONET_25045",
+      "title": "Prescribed Fire Starvation 11A Rx, Wallowa, Oregon",
+      "description": null,
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -117.251676,
+        45.701354
+      ],
+      "observed_at": "2026-09-30T15:52:00Z",
+      "magnitude_value": 719,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-ORWWF-000669"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25045"
+    },
+    {
       "id": "EONET_24962",
       "title": "Super Typhoon Choi-wan",
       "description": null,
@@ -49604,11 +49685,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        145.9,
-        27.3
+        145.8,
+        29.8
       ],
-      "observed_at": "2026-10-05T12:00:00Z",
-      "magnitude_value": 110,
+      "observed_at": "2026-10-06T00:00:00Z",
+      "magnitude_value": 95,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -52318,6 +52399,33 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24909"
+    },
+    {
+      "id": "EONET_25041",
+      "title": "Prescribed Fire Walker Hill Piles RX, Coconino, Arizona",
+      "description": null,
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -111.847278,
+        35.281778
+      ],
+      "observed_at": "2026-09-28T09:55:00Z",
+      "magnitude_value": 725,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-AZCOF-001521"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25041"
     },
     {
       "id": "EONET_24939",
@@ -79941,11 +80049,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -115.8,
+        -117.5,
         20.4
       ],
-      "observed_at": "2026-10-05T12:00:00Z",
-      "magnitude_value": 75,
+      "observed_at": "2026-10-06T00:00:00Z",
+      "magnitude_value": 80,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -100499,6 +100607,33 @@
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25039"
     },
     {
+      "id": "EONET_25044",
+      "title": "Prescribed Fire Wolf A RX, Grant, Oregon",
+      "description": null,
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -118.7167,
+        44.1182
+      ],
+      "observed_at": "2026-09-24T14:39:00Z",
+      "magnitude_value": 1620,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-ORMAF-002744"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25044"
+    },
+    {
       "id": "EONET_24908",
       "title": "Prescribed Fire Bonanza Ridge RX, Broadwater, Montana",
       "description": null,
@@ -100565,10 +100700,10 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        176.2,
-        25.6
+        173,
+        25.7
       ],
-      "observed_at": "2026-10-05T12:00:00Z",
+      "observed_at": "2026-10-06T00:00:00Z",
       "magnitude_value": 105,
       "magnitude_unit": "kts",
       "sources": [
@@ -101966,7 +102101,7 @@
       "id": "EONET_24787",
       "title": "Super Typhoon Surigae",
       "description": null,
-      "closed_at": null,
+      "closed_at": "2026-10-05T00:00:00Z",
       "categories": [
         {
           "id": "severeStorms",
@@ -268627,141 +268762,6 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24357"
-    },
-    {
-      "id": "EONET_24358",
-      "title": "Wildfire in Mozambique 1032060",
-      "description": null,
-      "closed_at": "2026-09-15T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        37.865474496415,
-        -17.015811849326
-      ],
-      "observed_at": "2026-09-11T19:00:00Z",
-      "magnitude_value": 5285,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032060"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24358"
-    },
-    {
-      "id": "EONET_24359",
-      "title": "Wildfire in Mozambique 1032061",
-      "description": null,
-      "closed_at": "2026-09-15T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        37.26073832132,
-        -15.620173173419
-      ],
-      "observed_at": "2026-09-11T19:00:00Z",
-      "magnitude_value": 5538,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032061"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24359"
-    },
-    {
-      "id": "EONET_24360",
-      "title": "Wildfire in Mozambique 1032062",
-      "description": null,
-      "closed_at": "2026-09-15T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        35.577012048328,
-        -16.974066636931
-      ],
-      "observed_at": "2026-09-11T19:00:00Z",
-      "magnitude_value": 5813,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032062"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24360"
-    },
-    {
-      "id": "EONET_24361",
-      "title": "Wildfire in Mozambique 1032063",
-      "description": null,
-      "closed_at": "2026-09-15T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        36.641778514666,
-        -16.745696923716
-      ],
-      "observed_at": "2026-09-11T19:00:00Z",
-      "magnitude_value": 6239,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032063"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24361"
-    },
-    {
-      "id": "EONET_24362",
-      "title": "Wildfire in Mozambique 1032064",
-      "description": null,
-      "closed_at": "2026-09-15T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        34.119370241941,
-        -15.451649237345
-      ],
-      "observed_at": "2026-09-11T19:00:00Z",
-      "magnitude_value": 6286,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032064"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24362"
     }
   ]
 }
