@@ -3,10 +3,64 @@
   "dataset": "natural_events",
   "source": "NASA EONET",
   "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=all&days=30&limit=500",
-  "generated_at": "2026-10-07T13:31:21.202Z",
+  "generated_at": "2026-10-07T20:39:15.928Z",
   "period": "past_30_days",
   "count": 500,
   "items": [
+    {
+      "id": "EONET_25063",
+      "title": "Tropical Storm Isaias",
+      "description": null,
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "severeStorms",
+          "title": "Severe Storms"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -94.1,
+        22
+      ],
+      "observed_at": "2026-10-07T09:00:00Z",
+      "magnitude_value": 35,
+      "magnitude_unit": "kts",
+      "sources": [
+        {
+          "id": "NOAA_NHC",
+          "url": "https://www.nhc.noaa.gov/archive/2026/ISAIAS.shtml"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063"
+    },
+    {
+      "id": "EONET_25064",
+      "title": "Wildfire in Tanzania 1032590",
+      "description": null,
+      "closed_at": "2026-10-05T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        34.212456606446,
+        -6.9177099530355
+      ],
+      "observed_at": "2026-10-05T19:00:00Z",
+      "magnitude_value": 6587,
+      "magnitude_unit": "hectare",
+      "sources": [
+        {
+          "id": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032590"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25064"
+    },
     {
       "id": "EONET_25046",
       "title": "Tropical Storm Koguma",
@@ -20,11 +74,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        163.2,
-        15.5
+        162.6,
+        15.7
       ],
-      "observed_at": "2026-10-07T06:00:00Z",
-      "magnitude_value": 55,
+      "observed_at": "2026-10-07T12:00:00Z",
+      "magnitude_value": 50,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -34869,6 +34923,87 @@
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24832"
     },
     {
+      "id": "EONET_25065",
+      "title": "Wildfire in Australia 1032605",
+      "description": null,
+      "closed_at": "2026-10-06T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        132.56349630064,
+        -21.851591648283
+      ],
+      "observed_at": "2026-10-04T19:00:00Z",
+      "magnitude_value": 5165,
+      "magnitude_unit": "hectare",
+      "sources": [
+        {
+          "id": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032605"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25065"
+    },
+    {
+      "id": "EONET_25066",
+      "title": "Wildfire in Angola 1032591",
+      "description": null,
+      "closed_at": "2026-10-05T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        18.158543257091,
+        -16.022649827829
+      ],
+      "observed_at": "2026-10-04T19:00:00Z",
+      "magnitude_value": 5318,
+      "magnitude_unit": "hectare",
+      "sources": [
+        {
+          "id": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032591"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25066"
+    },
+    {
+      "id": "EONET_25067",
+      "title": "Wildfire in Angola 1032604",
+      "description": null,
+      "closed_at": "2026-10-05T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        14.915990310728,
+        -15.871842118534
+      ],
+      "observed_at": "2026-10-04T19:00:00Z",
+      "magnitude_value": 5018,
+      "magnitude_unit": "hectare",
+      "sources": [
+        {
+          "id": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032604"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25067"
+    },
+    {
       "id": "EONET_25033",
       "title": "Wildfire in Ethiopia 1032562",
       "description": null,
@@ -34921,6 +35056,87 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25048"
+    },
+    {
+      "id": "EONET_25068",
+      "title": "Wildfire in Angola 1032592",
+      "description": null,
+      "closed_at": "2026-10-05T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        18.646411210164,
+        -16.430326312701
+      ],
+      "observed_at": "2026-10-03T19:00:00Z",
+      "magnitude_value": 7928,
+      "magnitude_unit": "hectare",
+      "sources": [
+        {
+          "id": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032592"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25068"
+    },
+    {
+      "id": "EONET_25069",
+      "title": "Wildfire in Namibia 1032593",
+      "description": null,
+      "closed_at": "2026-10-05T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        15.957029749076,
+        -19.610559055097
+      ],
+      "observed_at": "2026-10-03T19:00:00Z",
+      "magnitude_value": 5049,
+      "magnitude_unit": "hectare",
+      "sources": [
+        {
+          "id": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032593"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25069"
+    },
+    {
+      "id": "EONET_25070",
+      "title": "Wildfire in Australia 1032606",
+      "description": null,
+      "closed_at": "2026-10-06T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        136.77800318508,
+        -16.114382908552
+      ],
+      "observed_at": "2026-10-03T19:00:00Z",
+      "magnitude_value": 6094,
+      "magnitude_unit": "hectare",
+      "sources": [
+        {
+          "id": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032606"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25070"
     },
     {
       "id": "EONET_25047",
@@ -37666,6 +37882,60 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25049"
+    },
+    {
+      "id": "EONET_25071",
+      "title": "Wildfire in Brazil 1032607",
+      "description": null,
+      "closed_at": "2026-10-06T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -54.251835140334,
+        -3.0665133879141
+      ],
+      "observed_at": "2026-10-02T19:00:00Z",
+      "magnitude_value": 5403,
+      "magnitude_unit": "hectare",
+      "sources": [
+        {
+          "id": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032607"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25071"
+    },
+    {
+      "id": "EONET_25072",
+      "title": "Wildfire in Australia 1032596",
+      "description": null,
+      "closed_at": "2026-10-06T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        143.84464706298,
+        -14.730900028285
+      ],
+      "observed_at": "2026-10-02T19:00:00Z",
+      "magnitude_value": 8017,
+      "magnitude_unit": "hectare",
+      "sources": [
+        {
+          "id": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032596"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25072"
     },
     {
       "id": "EONET_25043",
@@ -51902,6 +52172,87 @@
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25051"
     },
     {
+      "id": "EONET_25073",
+      "title": "Wildfire in Tanzania 1032585",
+      "description": null,
+      "closed_at": "2026-10-05T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        34.717954881664,
+        -7.7981302695726
+      ],
+      "observed_at": "2026-10-01T19:00:00Z",
+      "magnitude_value": 6244,
+      "magnitude_unit": "hectare",
+      "sources": [
+        {
+          "id": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032585"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25073"
+    },
+    {
+      "id": "EONET_25074",
+      "title": "Wildfire in Australia 1032586",
+      "description": null,
+      "closed_at": "2026-10-05T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        115.55046059851,
+        -33.863717804553
+      ],
+      "observed_at": "2026-10-01T19:00:00Z",
+      "magnitude_value": 5560,
+      "magnitude_unit": "hectare",
+      "sources": [
+        {
+          "id": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032586"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25074"
+    },
+    {
+      "id": "EONET_25075",
+      "title": "Wildfire in Indonesia 1032597",
+      "description": null,
+      "closed_at": "2026-10-06T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        139.56289198635,
+        -6.3656288408068
+      ],
+      "observed_at": "2026-10-01T19:00:00Z",
+      "magnitude_value": 6294,
+      "magnitude_unit": "hectare",
+      "sources": [
+        {
+          "id": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032597"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25075"
+    },
+    {
       "id": "EONET_25001",
       "title": "Flood in Malaysia 1104207",
       "description": null,
@@ -55279,6 +55630,87 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25054"
+    },
+    {
+      "id": "EONET_25076",
+      "title": "Wildfire in Papua New Guinea 1032599",
+      "description": null,
+      "closed_at": "2026-10-05T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        141.39866927713,
+        -8.0760636571318
+      ],
+      "observed_at": "2026-09-28T19:00:00Z",
+      "magnitude_value": 5031,
+      "magnitude_unit": "hectare",
+      "sources": [
+        {
+          "id": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032599"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25076"
+    },
+    {
+      "id": "EONET_25077",
+      "title": "Wildfire in Indonesia 1032598",
+      "description": null,
+      "closed_at": "2026-10-06T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        126.49797163263,
+        -7.661179300005
+      ],
+      "observed_at": "2026-09-28T19:00:00Z",
+      "magnitude_value": 6099,
+      "magnitude_unit": "hectare",
+      "sources": [
+        {
+          "id": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032598"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25077"
+    },
+    {
+      "id": "EONET_25078",
+      "title": "Wildfire in Papua New Guinea 1032608",
+      "description": null,
+      "closed_at": "2026-10-06T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        141.81263296424,
+        -8.6123980805235
+      ],
+      "observed_at": "2026-09-28T19:00:00Z",
+      "magnitude_value": 11116,
+      "magnitude_unit": "hectare",
+      "sources": [
+        {
+          "id": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032608"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25078"
     },
     {
       "id": "EONET_24909",
@@ -82998,6 +83430,87 @@
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25056"
     },
     {
+      "id": "EONET_25079",
+      "title": "Wildfire in Indonesia 1032594",
+      "description": null,
+      "closed_at": "2026-10-06T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        105.56525781935,
+        -2.6571611393903
+      ],
+      "observed_at": "2026-09-27T19:00:00Z",
+      "magnitude_value": 6069,
+      "magnitude_unit": "hectare",
+      "sources": [
+        {
+          "id": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032594"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25079"
+    },
+    {
+      "id": "EONET_25080",
+      "title": "Wildfire in Indonesia 1032600",
+      "description": null,
+      "closed_at": "2026-10-05T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        110.45471293489,
+        -2.7953638599372
+      ],
+      "observed_at": "2026-09-27T19:00:00Z",
+      "magnitude_value": 6353,
+      "magnitude_unit": "hectare",
+      "sources": [
+        {
+          "id": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032600"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25080"
+    },
+    {
+      "id": "EONET_25081",
+      "title": "Wildfire in The Democratic Republic of Congo 1032587",
+      "description": null,
+      "closed_at": "2026-10-05T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        30.146592977492,
+        -7.7709002680751
+      ],
+      "observed_at": "2026-09-27T19:00:00Z",
+      "magnitude_value": 5445,
+      "magnitude_unit": "hectare",
+      "sources": [
+        {
+          "id": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032587"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25081"
+    },
+    {
       "id": "EONET_24875",
       "title": "Hurricane Rachel",
       "description": null,
@@ -83010,10 +83523,10 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -120.9,
-        20.5
+        -121.5,
+        20.7
       ],
-      "observed_at": "2026-10-07T06:00:00Z",
+      "observed_at": "2026-10-07T12:00:00Z",
       "magnitude_value": 70,
       "magnitude_unit": "kts",
       "sources": [
@@ -88266,6 +88779,33 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25018"
+    },
+    {
+      "id": "EONET_25082",
+      "title": "Wildfire in Papua New Guinea 1032609",
+      "description": null,
+      "closed_at": "2026-10-06T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        141.21779577628,
+        -9.1091664497255
+      ],
+      "observed_at": "2026-09-26T19:00:00Z",
+      "magnitude_value": 5241,
+      "magnitude_unit": "hectare",
+      "sources": [
+        {
+          "id": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032609"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25082"
     },
     {
       "id": "EONET_24904",
@@ -102350,6 +102890,87 @@
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25057"
     },
     {
+      "id": "EONET_25083",
+      "title": "Wildfire in Papua New Guinea 1032610",
+      "description": null,
+      "closed_at": "2026-10-06T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        141.12466279415,
+        -7.900657301664
+      ],
+      "observed_at": "2026-09-25T19:00:00Z",
+      "magnitude_value": 7686,
+      "magnitude_unit": "hectare",
+      "sources": [
+        {
+          "id": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032610"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25083"
+    },
+    {
+      "id": "EONET_25084",
+      "title": "Wildfire in Papua New Guinea 1032611",
+      "description": null,
+      "closed_at": "2026-10-06T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        141.91576964967,
+        -8.5480916230946
+      ],
+      "observed_at": "2026-09-25T19:00:00Z",
+      "magnitude_value": 5770,
+      "magnitude_unit": "hectare",
+      "sources": [
+        {
+          "id": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032611"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25084"
+    },
+    {
+      "id": "EONET_25085",
+      "title": "Wildfire in Australia 1032595",
+      "description": null,
+      "closed_at": "2026-10-06T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        145.09691119209,
+        -16.475932926785
+      ],
+      "observed_at": "2026-09-25T19:00:00Z",
+      "magnitude_value": 7628,
+      "magnitude_unit": "hectare",
+      "sources": [
+        {
+          "id": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032595"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25085"
+    },
+    {
       "id": "EONET_24905",
       "title": "Wildfire SECOND STREET, Benton, Washington",
       "description": "1 Miles SE from Benton City, WA",
@@ -103676,6 +104297,60 @@
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25060"
     },
     {
+      "id": "EONET_25086",
+      "title": "Wildfire in Indonesia 1032588",
+      "description": null,
+      "closed_at": "2026-10-06T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        105.254826506,
+        -3.3362208288371
+      ],
+      "observed_at": "2026-09-24T19:00:00Z",
+      "magnitude_value": 6763,
+      "magnitude_unit": "hectare",
+      "sources": [
+        {
+          "id": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032588"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25086"
+    },
+    {
+      "id": "EONET_25087",
+      "title": "Wildfire in Indonesia 1032601",
+      "description": null,
+      "closed_at": "2026-10-06T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        140.36864654977,
+        -7.7280139974044
+      ],
+      "observed_at": "2026-09-24T19:00:00Z",
+      "magnitude_value": 6131,
+      "magnitude_unit": "hectare",
+      "sources": [
+        {
+          "id": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032601"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25087"
+    },
+    {
       "id": "EONET_25044",
       "title": "Prescribed Fire Wolf A RX, Grant, Oregon",
       "description": null,
@@ -103769,11 +104444,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        162,
-        25.9
+        160.3,
+        25.8
       ],
-      "observed_at": "2026-10-07T06:00:00Z",
-      "magnitude_value": 70,
+      "observed_at": "2026-10-07T12:00:00Z",
+      "magnitude_value": 65,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -105219,6 +105894,60 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25062"
+    },
+    {
+      "id": "EONET_25088",
+      "title": "Wildfire in Indonesia 1032612",
+      "description": null,
+      "closed_at": "2026-10-06T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        140.66594586351,
+        -7.4163272163175
+      ],
+      "observed_at": "2026-09-23T19:00:00Z",
+      "magnitude_value": 8815,
+      "magnitude_unit": "hectare",
+      "sources": [
+        {
+          "id": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032612"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25088"
+    },
+    {
+      "id": "EONET_25089",
+      "title": "Wildfire in Indonesia 1032613",
+      "description": null,
+      "closed_at": "2026-10-06T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        140.70701671425,
+        -7.9481978148878
+      ],
+      "observed_at": "2026-09-23T19:00:00Z",
+      "magnitude_value": 7768,
+      "magnitude_unit": "hectare",
+      "sources": [
+        {
+          "id": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032613"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25089"
     },
     {
       "id": "EONET_24787",
@@ -117067,6 +117796,60 @@
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25010"
     },
     {
+      "id": "EONET_25090",
+      "title": "Wildfire in Papua New Guinea 1032614",
+      "description": null,
+      "closed_at": "2026-10-06T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        141.8108652002,
+        -9.0982361785506
+      ],
+      "observed_at": "2026-09-22T19:00:00Z",
+      "magnitude_value": 5355,
+      "magnitude_unit": "hectare",
+      "sources": [
+        {
+          "id": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032614"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25090"
+    },
+    {
+      "id": "EONET_25091",
+      "title": "Wildfire in Zambia 1032589",
+      "description": null,
+      "closed_at": "2026-10-05T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        33.395815545567,
+        -10.422918247132
+      ],
+      "observed_at": "2026-09-22T19:00:00Z",
+      "magnitude_value": 5321,
+      "magnitude_unit": "hectare",
+      "sources": [
+        {
+          "id": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032589"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25091"
+    },
+    {
       "id": "EONET_24907",
       "title": "Prescribed Fire Kelly Gulch RX, Lewis and Clark, Montana",
       "description": null,
@@ -119426,6 +120209,60 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25025"
+    },
+    {
+      "id": "EONET_25092",
+      "title": "Wildfire in Papua New Guinea 1032602",
+      "description": null,
+      "closed_at": "2026-10-06T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        141.41721423191,
+        -7.4527690048422
+      ],
+      "observed_at": "2026-09-21T19:00:00Z",
+      "magnitude_value": 5725,
+      "magnitude_unit": "hectare",
+      "sources": [
+        {
+          "id": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032602"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25092"
+    },
+    {
+      "id": "EONET_25093",
+      "title": "Wildfire in Indonesia 1032603",
+      "description": null,
+      "closed_at": "2026-10-06T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        139.42889218145,
+        -6.7368418534695
+      ],
+      "observed_at": "2026-09-21T19:00:00Z",
+      "magnitude_value": 7300,
+      "magnitude_unit": "hectare",
+      "sources": [
+        {
+          "id": "GDACS",
+          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032603"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25093"
     },
     {
       "id": "EONET_24721",
@@ -263733,843 +264570,6 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24345"
-    },
-    {
-      "id": "EONET_24346",
-      "title": "Wildfire in The Democratic Republic of Congo 1032054",
-      "description": null,
-      "closed_at": "2026-09-15T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        29.592273459102,
-        -13.155571519417
-      ],
-      "observed_at": "2026-09-12T19:00:00Z",
-      "magnitude_value": 7112,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032054"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24346"
-    },
-    {
-      "id": "EONET_24347",
-      "title": "Wildfire in Zambia 1032055",
-      "description": null,
-      "closed_at": "2026-09-15T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        30.011759186572,
-        -10.013481312947
-      ],
-      "observed_at": "2026-09-12T19:00:00Z",
-      "magnitude_value": 8274,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032055"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24347"
-    },
-    {
-      "id": "EONET_24348",
-      "title": "Wildfire in Australia 1031990",
-      "description": null,
-      "closed_at": "2026-09-16T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        132.15271495581,
-        -12.841812163868
-      ],
-      "observed_at": "2026-09-12T19:00:00Z",
-      "magnitude_value": 21082,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031990"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24348"
-    },
-    {
-      "id": "EONET_24349",
-      "title": "Wildfire in Brazil 1032046",
-      "description": null,
-      "closed_at": "2026-09-16T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        -47.410695030393,
-        -14.190610366022
-      ],
-      "observed_at": "2026-09-12T19:00:00Z",
-      "magnitude_value": 5322,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032046"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24349"
-    },
-    {
-      "id": "EONET_24350",
-      "title": "Wildfire in Mozambique 1032051",
-      "description": null,
-      "closed_at": "2026-09-16T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        34.186679716199,
-        -15.502246654649
-      ],
-      "observed_at": "2026-09-12T19:00:00Z",
-      "magnitude_value": 6262,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032051"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24350"
-    },
-    {
-      "id": "EONET_24351",
-      "title": "Wildfire in Namibia 1031966",
-      "description": null,
-      "closed_at": "2026-09-16T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        16.949444301802,
-        -19.276174238738
-      ],
-      "observed_at": "2026-09-12T19:00:00Z",
-      "magnitude_value": 23378,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031966"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24351"
-    },
-    {
-      "id": "EONET_24352",
-      "title": "Wildfire in Angola 1031968",
-      "description": null,
-      "closed_at": "2026-09-16T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        14.381665160052,
-        -15.375612057509
-      ],
-      "observed_at": "2026-09-12T19:00:00Z",
-      "magnitude_value": 19620,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031968"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24352"
-    },
-    {
-      "id": "EONET_24532",
-      "title": "Wildfire in Mozambique 1032123",
-      "description": null,
-      "closed_at": "2026-09-16T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        36.390166180524,
-        -17.024012430225
-      ],
-      "observed_at": "2026-09-12T19:00:00Z",
-      "magnitude_value": 5439,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032123"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24532"
-    },
-    {
-      "id": "EONET_24533",
-      "title": "Wildfire in Mozambique 1032131",
-      "description": null,
-      "closed_at": "2026-09-16T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        33.919091193631,
-        -18.917915672961
-      ],
-      "observed_at": "2026-09-12T19:00:00Z",
-      "magnitude_value": 5288,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032131"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24533"
-    },
-    {
-      "id": "EONET_24534",
-      "title": "Wildfire in Zambia 1032147",
-      "description": null,
-      "closed_at": "2026-09-16T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        32.828636076232,
-        -9.5263874344633
-      ],
-      "observed_at": "2026-09-12T19:00:00Z",
-      "magnitude_value": 5467,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032147"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24534"
-    },
-    {
-      "id": "EONET_24535",
-      "title": "Wildfire in Australia 1032174",
-      "description": null,
-      "closed_at": "2026-09-17T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        135.83178726756,
-        -12.493876961619
-      ],
-      "observed_at": "2026-09-12T19:00:00Z",
-      "magnitude_value": 5008,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032174"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24535"
-    },
-    {
-      "id": "EONET_24536",
-      "title": "Wildfire in Brazil 1032146",
-      "description": null,
-      "closed_at": "2026-09-17T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        -43.467614119835,
-        -11.250412012799
-      ],
-      "observed_at": "2026-09-12T19:00:00Z",
-      "magnitude_value": 5525,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032146"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24536"
-    },
-    {
-      "id": "EONET_24591",
-      "title": "Wildfire in Angola 1032187",
-      "description": null,
-      "closed_at": "2026-09-17T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        23.480130738631,
-        -12.931282782398
-      ],
-      "observed_at": "2026-09-12T19:00:00Z",
-      "magnitude_value": 6425,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032187"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24591"
-    },
-    {
-      "id": "EONET_24592",
-      "title": "Wildfire in Mozambique 1032188",
-      "description": null,
-      "closed_at": "2026-09-17T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        33.917665704439,
-        -18.919957122893
-      ],
-      "observed_at": "2026-09-12T19:00:00Z",
-      "magnitude_value": 5792,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032188"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24592"
-    },
-    {
-      "id": "EONET_24593",
-      "title": "Wildfire in Mozambique 1032189",
-      "description": null,
-      "closed_at": "2026-09-17T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        34.186787935326,
-        -15.37019864841
-      ],
-      "observed_at": "2026-09-12T19:00:00Z",
-      "magnitude_value": 9115,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032189"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24593"
-    },
-    {
-      "id": "EONET_24594",
-      "title": "Wildfire in Mozambique 1032190",
-      "description": null,
-      "closed_at": "2026-09-17T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        35.703110496707,
-        -17.566329662611
-      ],
-      "observed_at": "2026-09-12T19:00:00Z",
-      "magnitude_value": 16824,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032190"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24594"
-    },
-    {
-      "id": "EONET_24595",
-      "title": "Wildfire in Mozambique 1032191",
-      "description": null,
-      "closed_at": "2026-09-17T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        37.629799462685,
-        -16.920676621802
-      ],
-      "observed_at": "2026-09-12T19:00:00Z",
-      "magnitude_value": 5084,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032191"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24595"
-    },
-    {
-      "id": "EONET_24596",
-      "title": "Wildfire in Angola 1032192",
-      "description": null,
-      "closed_at": "2026-09-17T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        16.302732745138,
-        -8.0335457991055
-      ],
-      "observed_at": "2026-09-12T19:00:00Z",
-      "magnitude_value": 5975,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032192"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24596"
-    },
-    {
-      "id": "EONET_24597",
-      "title": "Wildfire in Brazil 1032218",
-      "description": null,
-      "closed_at": "2026-09-18T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        -50.856620632088,
-        -10.856511895172
-      ],
-      "observed_at": "2026-09-12T19:00:00Z",
-      "magnitude_value": 6885,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032218"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24597"
-    },
-    {
-      "id": "EONET_24598",
-      "title": "Wildfire in Brazil 1032215",
-      "description": null,
-      "closed_at": "2026-09-18T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        -48.371453399933,
-        -9.863260587872
-      ],
-      "observed_at": "2026-09-12T19:00:00Z",
-      "magnitude_value": 5269,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032215"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24598"
-    },
-    {
-      "id": "EONET_24599",
-      "title": "Wildfire in Australia 1032223",
-      "description": null,
-      "closed_at": "2026-09-18T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        141.81624821976,
-        -13.109633029132
-      ],
-      "observed_at": "2026-09-12T19:00:00Z",
-      "magnitude_value": 5683,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032223"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24599"
-    },
-    {
-      "id": "EONET_24754",
-      "title": "Wildfire in Brazil 1032332",
-      "description": null,
-      "closed_at": "2026-09-21T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        -51.286004172254,
-        -10.473275964542
-      ],
-      "observed_at": "2026-09-12T19:00:00Z",
-      "magnitude_value": 6416,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032332"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24754"
-    },
-    {
-      "id": "EONET_24779",
-      "title": "Wildfire in Brazil 1032350",
-      "description": null,
-      "closed_at": "2026-09-22T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        -46.874295141891,
-        -8.454533838815
-      ],
-      "observed_at": "2026-09-12T19:00:00Z",
-      "magnitude_value": 5039,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032350"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24779"
-    },
-    {
-      "id": "EONET_24780",
-      "title": "Wildfire in Australia 1032351",
-      "description": null,
-      "closed_at": "2026-09-22T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        142.31206330195,
-        -12.815439817328
-      ],
-      "observed_at": "2026-09-12T19:00:00Z",
-      "magnitude_value": 5123,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032351"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24780"
-    },
-    {
-      "id": "EONET_24781",
-      "title": "Wildfire in Brazil 1032352",
-      "description": null,
-      "closed_at": "2026-09-22T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        -50.859582722248,
-        -8.3178889052168
-      ],
-      "observed_at": "2026-09-12T19:00:00Z",
-      "magnitude_value": 5248,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032352"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24781"
-    },
-    {
-      "id": "EONET_24806",
-      "title": "Wildfire in Brazil 1032368",
-      "description": null,
-      "closed_at": "2026-09-23T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        -46.287198549306,
-        -10.489311154596
-      ],
-      "observed_at": "2026-09-12T19:00:00Z",
-      "magnitude_value": 5669,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032368"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24806"
-    },
-    {
-      "id": "EONET_24827",
-      "title": "Wildfire in Brazil 1032390",
-      "description": null,
-      "closed_at": "2026-09-23T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        -59.562193316585,
-        -3.4758316998495
-      ],
-      "observed_at": "2026-09-12T19:00:00Z",
-      "magnitude_value": 5462,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032390"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24827"
-    },
-    {
-      "id": "EONET_24873",
-      "title": "Wildfire in Australia 1032431",
-      "description": null,
-      "closed_at": "2026-09-26T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        130.68079375314,
-        -11.579431778955
-      ],
-      "observed_at": "2026-09-12T19:00:00Z",
-      "magnitude_value": 5041,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032431"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24873"
-    },
-    {
-      "id": "EONET_24903",
-      "title": "Wildfire in Mozambique 1032442",
-      "description": null,
-      "closed_at": "2026-09-26T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        36.55986655609,
-        -17.60817930427
-      ],
-      "observed_at": "2026-09-12T19:00:00Z",
-      "magnitude_value": 5164,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032442"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24903"
-    },
-    {
-      "id": "EONET_24506",
-      "title": "Wildfire Highland, Wichita, Texas",
-      "description": "1 Miles N from Iowa Park, TX",
-      "closed_at": "2026-09-13T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        -98.6603,
-        33.96788333
-      ],
-      "observed_at": "2026-09-12T18:13:00Z",
-      "magnitude_value": 622,
-      "magnitude_unit": "acres",
-      "sources": [
-        {
-          "id": "IRWIN",
-          "url": "https://irwin.doi.gov/observer/incidents/2026-TXTXS-268430"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24506"
-    },
-    {
-      "id": "EONET_24504",
-      "title": "Wildfire Benson, Menard, Texas",
-      "description": "10 Miles SE from Fort McKavett, TX",
-      "closed_at": "2026-09-14T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        -99.92083333,
-        30.80777778
-      ],
-      "observed_at": "2026-09-12T17:22:00Z",
-      "magnitude_value": 1395,
-      "magnitude_unit": "acres",
-      "sources": [
-        {
-          "id": "IRWIN",
-          "url": "https://irwin.doi.gov/observer/incidents/2026-TXTXS-268422"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24504"
     }
   ]
 }
