@@ -3,7 +3,7 @@
   "dataset": "natural_events",
   "source": "NASA EONET",
   "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=all&days=30&limit=500",
-  "generated_at": "2026-10-08T18:52:58.300Z",
+  "generated_at": "2026-10-09T01:14:58.398Z",
   "period": "past_30_days",
   "count": 500,
   "items": [
@@ -20,11 +20,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -103.1,
-        15.4
+        -103.7,
+        15.6
       ],
-      "observed_at": "2026-10-08T12:00:00Z",
-      "magnitude_value": 55,
+      "observed_at": "2026-10-08T18:00:00Z",
+      "magnitude_value": 60,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -33,6 +33,33 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094"
+    },
+    {
+      "id": "EONET_25119",
+      "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+      "description": null,
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -86.526643,
+        31.124246
+      ],
+      "observed_at": "2026-10-07T10:45:00Z",
+      "magnitude_value": 614,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-ALALF-000498"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119"
     },
     {
       "id": "EONET_25063",
@@ -116,6 +143,33 @@
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25097"
     },
     {
+      "id": "EONET_25117",
+      "title": "Wildfire Jones, Elko, Nevada",
+      "description": "1 Miles S from Deeth, NV",
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -115.20765,
+        41.02195
+      ],
+      "observed_at": "2026-10-05T23:14:00Z",
+      "magnitude_value": 1657,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-NVECFX-010656"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25117"
+    },
+    {
       "id": "EONET_25064",
       "title": "Wildfire in Tanzania 1032590",
       "description": null,
@@ -144,7 +198,7 @@
     },
     {
       "id": "EONET_25046",
-      "title": "Tropical Storm Koguma",
+      "title": "Typhoon Koguma",
       "description": null,
       "closed_at": null,
       "categories": [
@@ -155,11 +209,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        159,
-        17.7
+        157.7,
+        18.1
       ],
-      "observed_at": "2026-10-08T12:00:00Z",
-      "magnitude_value": 65,
+      "observed_at": "2026-10-08T18:00:00Z",
+      "magnitude_value": 75,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -35353,6 +35407,33 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25102"
+    },
+    {
+      "id": "EONET_25118",
+      "title": "Wildfire BOUQUET, Los Angeles, California",
+      "description": "8 Miles NE from Saugus, CA",
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -118.40183,
+        34.561835
+      ],
+      "observed_at": "2026-10-03T17:30:00Z",
+      "magnitude_value": 1048,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-CAANF-264196"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25118"
     },
     {
       "id": "EONET_25047",
@@ -84471,11 +84552,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -124,
-        22
+        -124.5,
+        22.3
       ],
-      "observed_at": "2026-10-08T12:00:00Z",
-      "magnitude_value": 60,
+      "observed_at": "2026-10-08T18:00:00Z",
+      "magnitude_value": 55,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -105581,10 +105662,10 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        152.7,
-        27.6
+        151.1,
+        27.8
       ],
-      "observed_at": "2026-10-08T12:00:00Z",
+      "observed_at": "2026-10-08T18:00:00Z",
       "magnitude_value": 50,
       "magnitude_unit": "kts",
       "sources": [
@@ -265005,87 +265086,6 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24695"
-    },
-    {
-      "id": "EONET_24696",
-      "title": "Wildfire in Brazil 1032291",
-      "description": null,
-      "closed_at": "2026-09-20T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        -53.984170968826,
-        -10.89557236477
-      ],
-      "observed_at": "2026-09-13T19:00:00Z",
-      "magnitude_value": 5751,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032291"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24696"
-    },
-    {
-      "id": "EONET_24697",
-      "title": "Wildfire in Brazil 1032292",
-      "description": null,
-      "closed_at": "2026-09-20T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        -46.588605141471,
-        -9.5808239184771
-      ],
-      "observed_at": "2026-09-13T19:00:00Z",
-      "magnitude_value": 5236,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032292"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24697"
-    },
-    {
-      "id": "EONET_24752",
-      "title": "Wildfire in Brazil 1032312",
-      "description": null,
-      "closed_at": "2026-09-21T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        -46.20468315762,
-        -9.2472884410482
-      ],
-      "observed_at": "2026-09-13T19:00:00Z",
-      "magnitude_value": 5903,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032312"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24752"
     }
   ]
 }
