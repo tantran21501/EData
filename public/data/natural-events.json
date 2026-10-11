@@ -3,7 +3,7 @@
   "dataset": "natural_events",
   "source": "NASA EONET",
   "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=all&days=30&limit=500",
-  "generated_at": "2026-10-11T05:53:47.501Z",
+  "generated_at": "2026-10-11T12:57:38.035Z",
   "period": "past_30_days",
   "count": 500,
   "items": [
@@ -17979,11 +17979,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -104.8,
-        17.4
+        -105,
+        18.4
       ],
-      "observed_at": "2026-10-10T18:00:00Z",
-      "magnitude_value": 130,
+      "observed_at": "2026-10-11T06:00:00Z",
+      "magnitude_value": 135,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -40432,11 +40432,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        148.9,
-        23.8
+        147.8,
+        25.3
       ],
-      "observed_at": "2026-10-10T18:00:00Z",
-      "magnitude_value": 120,
+      "observed_at": "2026-10-11T06:00:00Z",
+      "magnitude_value": 115,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -156943,7 +156943,7 @@
     },
     {
       "id": "EONET_24875",
-      "title": "Hurricane Rachel",
+      "title": "Cyclone Rachel",
       "description": null,
       "closed_at": null,
       "categories": [
@@ -156954,11 +156954,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -118.9,
-        25.8
+        -116.3,
+        31.8
       ],
-      "observed_at": "2026-10-10T18:00:00Z",
-      "magnitude_value": 55,
+      "observed_at": "2026-10-11T06:00:00Z",
+      "magnitude_value": 50,
       "magnitude_unit": "kts",
       "sources": [
         {
