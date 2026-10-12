@@ -2,8 +2,8 @@
   "schema_version": 1,
   "dataset": "day_night_parameters",
   "source": "Calculated locally",
-  "generated_at": "2026-10-11T12:57:49.390Z",
-  "day_of_year": 284,
-  "utc_date": "2026-10-11",
+  "generated_at": "2026-10-12T21:18:16.962Z",
+  "day_of_year": 285,
+  "utc_date": "2026-10-12",
   "note": "Calculate the solar terminator, sunrise and sunset on-device from time and coordinates; no API is required."
 }
