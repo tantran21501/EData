@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-13T22:50:12.421Z",
+  "generated_at": "2026-10-14T04:59:41.122Z",
   "dispatcher_schedule": "Every 3 hours at minute 17 UTC",
   "estimated_max_upstream_requests_per_day": 44,
   "datasets": {
@@ -8,14 +8,14 @@
       "file": "earthquakes.json",
       "interval_hours": 3,
       "request_budget_per_run": 1,
-      "last_success_at": "2026-10-13T22:49:48.699Z",
+      "last_success_at": "2026-10-14T04:59:29.123Z",
       "last_error": null
     },
     "naturalEvents": {
       "file": "natural-events.json",
       "interval_hours": 6,
       "request_budget_per_run": 1,
-      "last_success_at": "2026-10-13T16:59:01.107Z",
+      "last_success_at": "2026-10-14T04:59:29.870Z",
       "last_error": null
     },
     "satellites": {
