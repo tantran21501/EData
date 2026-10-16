@@ -3,7 +3,7 @@
   "dataset": "natural_events",
   "source": "NASA EONET",
   "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=all&days=30&limit=500",
-  "generated_at": "2026-10-15T21:27:55.331Z",
+  "generated_at": "2026-10-16T11:30:33.626Z",
   "period": "past_30_days",
   "count": 500,
   "items": [
@@ -74,11 +74,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -101.6,
-        12.9
+        -102.4,
+        14
       ],
-      "observed_at": "2026-10-15T12:00:00Z",
-      "magnitude_value": 80,
+      "observed_at": "2026-10-16T06:00:00Z",
+      "magnitude_value": 105,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -68077,11 +68077,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -108,
-        19.2
+        -108.5,
+        19.7
       ],
-      "observed_at": "2026-10-15T12:00:00Z",
-      "magnitude_value": 50,
+      "observed_at": "2026-10-16T06:00:00Z",
+      "magnitude_value": 35,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -259941,7 +259941,7 @@
       "id": "EONET_24786",
       "title": "Hurricane Nolo",
       "description": null,
-      "closed_at": null,
+      "closed_at": "2026-10-15T00:00:00Z",
       "categories": [
         {
           "id": "severeStorms",
