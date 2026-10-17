@@ -19,7 +19,7 @@
       "count": 16755
     },
     "spaceWeather": {
-      "lastAttemptAt": "2026-10-17T20:40:15.047Z",
+      "lastAttemptAt": "2026-10-17T23:09:56.481Z",
       "lastError": "HTTP 404 for https://services.swpc.noaa.gov/products/solar-wind/mag-7-day.json"
     },
     "dayNight": {
