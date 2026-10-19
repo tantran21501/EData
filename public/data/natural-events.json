@@ -3,7 +3,7 @@
   "dataset": "natural_events",
   "source": "NASA EONET",
   "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=all&days=30&limit=500",
-  "generated_at": "2026-10-18T20:49:46.924Z",
+  "generated_at": "2026-10-19T04:48:05.824Z",
   "period": "past_30_days",
   "count": 500,
   "items": [
@@ -63,7 +63,7 @@
     },
     {
       "id": "EONET_25340",
-      "title": "Tropical Cyclone 01P",
+      "title": "Tropical Cyclone Wati",
       "description": null,
       "closed_at": null,
       "categories": [
@@ -74,11 +74,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -162.4,
-        -16.1
+        -160.2,
+        -18.6
       ],
-      "observed_at": "2026-10-18T06:00:00Z",
-      "magnitude_value": 65,
+      "observed_at": "2026-10-18T18:00:00Z",
+      "magnitude_value": 55,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -182,10 +182,10 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        141.4,
-        13.5
+        140.2,
+        13.8
       ],
-      "observed_at": "2026-10-18T12:00:00Z",
+      "observed_at": "2026-10-18T18:00:00Z",
       "magnitude_value": 120,
       "magnitude_unit": "kts",
       "sources": [
@@ -506,11 +506,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -106.6,
-        18.9
+        -106.9,
+        19.3
       ],
-      "observed_at": "2026-10-18T12:00:00Z",
-      "magnitude_value": 90,
+      "observed_at": "2026-10-18T18:00:00Z",
+      "magnitude_value": 85,
       "magnitude_unit": "kts",
       "sources": [
         {
