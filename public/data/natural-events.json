@@ -3,7 +3,7 @@
   "dataset": "natural_events",
   "source": "NASA EONET",
   "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=all&days=30&limit=500",
-  "generated_at": "2026-10-19T04:48:05.824Z",
+  "generated_at": "2026-10-19T13:26:38.477Z",
   "period": "past_30_days",
   "count": 500,
   "items": [
@@ -74,11 +74,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -160.2,
-        -18.6
+        -156.8,
+        -20.7
       ],
-      "observed_at": "2026-10-18T18:00:00Z",
-      "magnitude_value": 55,
+      "observed_at": "2026-10-19T06:00:00Z",
+      "magnitude_value": 45,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -182,11 +182,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        140.2,
-        13.8
+        138.4,
+        14.3
       ],
-      "observed_at": "2026-10-18T18:00:00Z",
-      "magnitude_value": 120,
+      "observed_at": "2026-10-19T06:00:00Z",
+      "magnitude_value": 140,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -506,11 +506,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -106.9,
-        19.3
+        -107.8,
+        19.7
       ],
-      "observed_at": "2026-10-18T18:00:00Z",
-      "magnitude_value": 85,
+      "observed_at": "2026-10-19T06:00:00Z",
+      "magnitude_value": 55,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -122579,7 +122579,7 @@
       "id": "EONET_25046",
       "title": "Typhoon Koguma",
       "description": null,
-      "closed_at": null,
+      "closed_at": "2026-10-18T00:00:00Z",
       "categories": [
         {
           "id": "severeStorms",
