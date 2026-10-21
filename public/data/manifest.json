@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-21T11:57:51.998Z",
+  "generated_at": "2026-10-21T17:17:15.204Z",
   "dispatcher_schedule": "Every 3 hours at minute 17 UTC",
   "estimated_max_upstream_requests_per_day": 44,
   "datasets": {
@@ -8,7 +8,7 @@
       "file": "earthquakes.json",
       "interval_hours": 3,
       "request_budget_per_run": 1,
-      "last_success_at": "2026-10-21T11:57:37.953Z",
+      "last_success_at": "2026-10-21T17:17:03.561Z",
       "last_error": null
     },
     "naturalEvents": {
@@ -23,7 +23,7 @@
       "interval_hours": 12,
       "request_budget_per_run": 4,
       "last_success_at": "2026-10-21T04:56:24.109Z",
-      "last_error": null
+      "last_error": "HTTP 500 for https://celestrak.org/NORAD/elements/gp.php?GROUP=stations&FORMAT=json"
     },
     "spaceWeather": {
       "file": "space-weather.json",
