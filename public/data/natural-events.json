@@ -3,7 +3,7 @@
   "dataset": "natural_events",
   "source": "NASA EONET",
   "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=all&days=30&limit=500",
-  "generated_at": "2026-10-26T04:54:13.476Z",
+  "generated_at": "2026-10-26T13:11:30.613Z",
   "period": "past_30_days",
   "count": 500,
   "items": [
@@ -1127,16 +1127,20 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -104,
-        14.6
+        -105,
+        15.2
       ],
-      "observed_at": "2026-10-25T18:00:00Z",
-      "magnitude_value": 60,
+      "observed_at": "2026-10-26T06:00:00Z",
+      "magnitude_value": 55,
       "magnitude_unit": "kts",
       "sources": [
         {
           "id": "JTWC",
           "url": "https://www.metoc.navy.mil/jtwc/products/ep2226.tcw"
+        },
+        {
+          "id": "NOAA_NHC",
+          "url": "https://www.nhc.noaa.gov/archive/2026/VANCE.shtml"
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589"
