@@ -3,7 +3,7 @@
   "dataset": "natural_events",
   "source": "NASA EONET",
   "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=all&days=30&limit=500",
-  "generated_at": "2026-10-31T05:51:26.319Z",
+  "generated_at": "2026-10-31T12:41:01.403Z",
   "period": "past_30_days",
   "count": 500,
   "items": [
@@ -40216,10 +40216,10 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        142.8,
-        21.5
+        142.9,
+        22.2
       ],
-      "observed_at": "2026-10-31T00:00:00Z",
+      "observed_at": "2026-10-31T06:00:00Z",
       "magnitude_value": 115,
       "magnitude_unit": "kts",
       "sources": [
@@ -44770,6 +44770,33 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25888"
+    },
+    {
+      "id": "EONET_6288",
+      "title": "Iceberg D32",
+      "description": null,
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "seaLakeIce",
+          "title": "Sea and Lake Ice"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -39.35,
+        -56.65
+      ],
+      "observed_at": "2026-10-22T00:00:00Z",
+      "magnitude_value": 54,
+      "magnitude_unit": "NM^2",
+      "sources": [
+        {
+          "id": "NATICE",
+          "url": "https://usicecenter.gov/pub/Iceberg_Tabular.csv"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6288"
     },
     {
       "id": "EONET_25803",
@@ -98056,7 +98083,7 @@
       "id": "EONET_25339",
       "title": "Super Typhoon Champi",
       "description": null,
-      "closed_at": null,
+      "closed_at": "2026-10-30T00:00:00Z",
       "categories": [
         {
           "id": "severeStorms",
@@ -122219,33 +122246,6 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25272"
-    },
-    {
-      "id": "EONET_25273",
-      "title": "Wildfire in Tanzania 1032766",
-      "description": null,
-      "closed_at": "2026-10-11T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        34.324763997986,
-        -6.8530610785334
-      ],
-      "observed_at": "2026-10-10T19:00:00Z",
-      "magnitude_value": 6075,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032766"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25273"
     }
   ]
 }
