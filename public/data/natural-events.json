@@ -3,7 +3,7 @@
   "dataset": "natural_events",
   "source": "NASA EONET",
   "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=all&days=30&limit=500",
-  "generated_at": "2026-11-03T17:07:53.068Z",
+  "generated_at": "2026-11-03T23:27:28.048Z",
   "period": "past_30_days",
   "count": 500,
   "items": [
@@ -12857,6 +12857,33 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6051"
+    },
+    {
+      "id": "EONET_25990",
+      "title": "Iceberg B22K",
+      "description": null,
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "seaLakeIce",
+          "title": "Sea and Lake Ice"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        163.35,
+        -69.76
+      ],
+      "observed_at": "2026-10-30T00:00:00Z",
+      "magnitude_value": 19.62,
+      "magnitude_unit": "NM^2",
+      "sources": [
+        {
+          "id": "NATICE",
+          "url": "https://usicecenter.gov/pub/Iceberg_Tabular.csv"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990"
     },
     {
       "id": "EONET_25896",
@@ -72008,11 +72035,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        139.1,
-        23.1
+        138.8,
+        23.3
       ],
-      "observed_at": "2026-11-03T06:00:00Z",
-      "magnitude_value": 70,
+      "observed_at": "2026-11-03T12:00:00Z",
+      "magnitude_value": 75,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -131107,33 +131134,6 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25725"
-    },
-    {
-      "id": "EONET_25726",
-      "title": "Wildfire in Tanzania 1033160",
-      "description": null,
-      "closed_at": "2026-10-23T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        35.469370292463,
-        -9.936624272767
-      ],
-      "observed_at": "2026-10-14T19:00:00Z",
-      "magnitude_value": 6168,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033160"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25726"
     }
   ]
 }
