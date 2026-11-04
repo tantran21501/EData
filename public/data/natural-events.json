@@ -3,7 +3,7 @@
   "dataset": "natural_events",
   "source": "NASA EONET",
   "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=all&days=30&limit=500",
-  "generated_at": "2026-11-04T06:33:49.596Z",
+  "generated_at": "2026-11-04T17:19:08.372Z",
   "period": "past_30_days",
   "count": 500,
   "items": [
@@ -72035,11 +72035,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        138.7,
-        23.8
+        138.3,
+        25
       ],
-      "observed_at": "2026-11-03T18:00:00Z",
-      "magnitude_value": 85,
+      "observed_at": "2026-11-04T06:00:00Z",
+      "magnitude_value": 80,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -85608,7 +85608,7 @@
       "id": "EONET_25589",
       "title": "Hurricane Vance",
       "description": null,
-      "closed_at": null,
+      "closed_at": "2026-11-04T00:00:00Z",
       "categories": [
         {
           "id": "severeStorms",
