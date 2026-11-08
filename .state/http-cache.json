@@ -1,6 +1,6 @@
 {
   "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson": {
-    "lastModified": "Sat, 07 Nov 2026 19:27:50 GMT"
+    "lastModified": "Sun, 08 Nov 2026 00:42:09 GMT"
   },
   "https://eonet.gsfc.nasa.gov/api/v3/events?status=all&days=30&limit=500": {},
   "celestrak-stations": {},
@@ -8,7 +8,7 @@
   "celestrak-starlink": {},
   "celestrak-active": {},
   "noaa-kp": {
-    "etag": "W/\"12c0-65fb4b5ea65c9\"",
-    "lastModified": "Sat, 07 Nov 2026 19:26:51 GMT"
+    "etag": "W/\"10ec-65fb91adb6895\"",
+    "lastModified": "Sun, 08 Nov 2026 00:41:24 GMT"
   }
 }
