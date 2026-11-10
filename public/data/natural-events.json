@@ -3,10 +3,37 @@
   "dataset": "natural_events",
   "source": "NASA EONET",
   "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=all&days=30&limit=500",
-  "generated_at": "2026-11-09T19:52:16.144Z",
+  "generated_at": "2026-11-10T03:36:50.945Z",
   "period": "past_30_days",
   "count": 500,
   "items": [
+    {
+      "id": "EONET_26256",
+      "title": "Prescribed Fire Compartment 22 RX, Hale, Alabama",
+      "description": null,
+      "closed_at": "2026-11-08T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -87.47582,
+        32.963892
+      ],
+      "observed_at": "2026-11-08T09:05:00Z",
+      "magnitude_value": 740,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-ALALF-000524"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26256"
+    },
     {
       "id": "EONET_26166",
       "title": "Wildfire in Australia 1033644",
@@ -263,11 +290,11 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        135.3,
-        24.3
+        136.6,
+        24.6
       ],
-      "observed_at": "2026-11-09T12:00:00Z",
-      "magnitude_value": 90,
+      "observed_at": "2026-11-09T18:00:00Z",
+      "magnitude_value": 95,
       "magnitude_unit": "kts",
       "sources": [
         {
@@ -8906,10 +8933,10 @@
       ],
       "geometry_type": "Point",
       "coordinates": [
-        -159.1,
-        11.4
+        -160.7,
+        11.5
       ],
-      "observed_at": "2026-11-09T12:00:00Z",
+      "observed_at": "2026-11-09T18:00:00Z",
       "magnitude_value": 35,
       "magnitude_unit": "kts",
       "sources": [
@@ -25643,6 +25670,33 @@
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26214"
     },
     {
+      "id": "EONET_26258",
+      "title": "Wildfire FOOT CREEK, Johnson, Wyoming",
+      "description": "10 Miles W from Bufffalo, WY",
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -106.93255,
+        44.318717
+      ],
+      "observed_at": "2026-11-05T16:11:00Z",
+      "magnitude_value": 683,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-WYBHF-000401"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26258"
+    },
+    {
       "id": "EONET_26059",
       "title": "Wildfire in Australia 1033539",
       "description": null,
@@ -26831,6 +26885,33 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26231"
+    },
+    {
+      "id": "EONET_26260",
+      "title": "Prescribed Fire Cold Springs RX, Wasatch, Utah",
+      "description": null,
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -110.943493,
+        40.511329
+      ],
+      "observed_at": "2026-11-03T10:48:00Z",
+      "magnitude_value": 904,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-UTUWF-200860"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26260"
     },
     {
       "id": "EONET_25991",
@@ -51588,7 +51669,7 @@
     {
       "id": "EONET_26056",
       "title": "Prescribed Fire TON RX - BAILEY LOST HP, Okanogan, Washington",
-      "description": null,
+      "description": " ",
       "closed_at": null,
       "categories": [
         {
@@ -69580,6 +69661,33 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827"
+    },
+    {
+      "id": "EONET_26259",
+      "title": "Prescribed Fire 3R RX - DRUMMOND MP, Stevens, Washington",
+      "description": null,
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -117.533129,
+        48.402056
+      ],
+      "observed_at": "2026-10-28T11:42:00Z",
+      "magnitude_value": 645,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-WACOF-002228"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26259"
     },
     {
       "id": "EONET_25829",
@@ -124870,114 +124978,6 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25813"
-    },
-    {
-      "id": "EONET_25846",
-      "title": "Wildfire in Zambia, Malawi 1033281",
-      "description": null,
-      "closed_at": "2026-10-27T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        33.695967735201,
-        -10.075527920159
-      ],
-      "observed_at": "2026-10-21T19:00:00Z",
-      "magnitude_value": 5341,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033281"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25846"
-    },
-    {
-      "id": "EONET_25847",
-      "title": "Wildfire in Zimbabwe 1033282",
-      "description": null,
-      "closed_at": "2026-10-27T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        30.154478965784,
-        -16.070900343357
-      ],
-      "observed_at": "2026-10-21T19:00:00Z",
-      "magnitude_value": 5254,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033282"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25847"
-    },
-    {
-      "id": "EONET_25848",
-      "title": "Wildfire in Senegal, Mali 1033283",
-      "description": null,
-      "closed_at": "2026-10-27T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        -11.847422545737,
-        14.076264373331
-      ],
-      "observed_at": "2026-10-21T19:00:00Z",
-      "magnitude_value": 5041,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033283"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25848"
-    },
-    {
-      "id": "EONET_25849",
-      "title": "Wildfire in China 1033284",
-      "description": null,
-      "closed_at": "2026-10-28T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        132.32954329929,
-        46.399470011939
-      ],
-      "observed_at": "2026-10-21T19:00:00Z",
-      "magnitude_value": 5010,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033284"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25849"
     }
   ]
 }
