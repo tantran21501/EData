@@ -3,7 +3,7 @@
   "dataset": "natural_events",
   "source": "NASA EONET",
   "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=all&days=30&limit=500",
-  "generated_at": "2026-11-13T19:47:44.341Z",
+  "generated_at": "2026-11-14T10:34:23.681Z",
   "period": "past_30_days",
   "count": 500,
   "items": [
@@ -55643,7 +55643,7 @@
       "id": "EONET_26159",
       "title": "Tropical Cyclone 03S",
       "description": null,
-      "closed_at": null,
+      "closed_at": "2026-11-13T00:00:00Z",
       "categories": [
         {
           "id": "severeStorms",
@@ -64771,6 +64771,33 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_2736"
+    },
+    {
+      "id": "EONET_6474",
+      "title": "Iceberg D35",
+      "description": null,
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "seaLakeIce",
+          "title": "Sea and Lake Ice"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -44.72,
+        -60.15
+      ],
+      "observed_at": "2026-11-06T00:00:00Z",
+      "magnitude_value": 90,
+      "magnitude_unit": "NM^2",
+      "sources": [
+        {
+          "id": "NATICE",
+          "url": "https://usicecenter.gov/pub/Iceberg_Tabular.csv"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6474"
     },
     {
       "id": "EONET_26165",
@@ -134746,6 +134773,64 @@
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6051"
     },
     {
+      "id": "EONET_6320",
+      "title": "Iceberg A81",
+      "description": null,
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "seaLakeIce",
+          "title": "Sea and Lake Ice"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -35.52,
+        -55.81
+      ],
+      "observed_at": "2026-11-06T00:00:00Z",
+      "magnitude_value": 700,
+      "magnitude_unit": "NM^2",
+      "sources": [
+        {
+          "id": "NATICE",
+          "url": "https://usicecenter.gov/pub/Iceberg_Tabular.csv"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6320"
+    },
+    {
+      "id": "EONET_6523",
+      "title": "Iceberg A83",
+      "description": null,
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "seaLakeIce",
+          "title": "Sea and Lake Ice"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -49.52,
+        -59.61
+      ],
+      "observed_at": "2026-10-30T00:00:00Z",
+      "magnitude_value": 84,
+      "magnitude_unit": "NM^2",
+      "sources": [
+        {
+          "id": "EO",
+          "url": "https://earthobservatory.nasa.gov/images/152848/antarctic-ice-shelf-spawns-iceberg-a-83"
+        },
+        {
+          "id": "NATICE",
+          "url": "https://usicecenter.gov/pub/Iceberg_Tabular.csv"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6523"
+    },
+    {
       "id": "EONET_12618",
       "title": "Iceberg A84",
       "description": null,
@@ -180257,87 +180342,6 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25771"
-    },
-    {
-      "id": "EONET_25837",
-      "title": "Wildfire in Botswana 1033299",
-      "description": null,
-      "closed_at": "2026-10-27T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        22.126770158172,
-        -20.355982433376
-      ],
-      "observed_at": "2026-10-25T19:00:00Z",
-      "magnitude_value": 5288,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033299"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25837"
-    },
-    {
-      "id": "EONET_25838",
-      "title": "Wildfire in Burkina Faso 1033277",
-      "description": null,
-      "closed_at": "2026-10-27T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        -0.54025780718996,
-        14.402335402736
-      ],
-      "observed_at": "2026-10-25T19:00:00Z",
-      "magnitude_value": 6552,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033277"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25838"
-    },
-    {
-      "id": "EONET_25839",
-      "title": "Wildfire in Nigeria 1033278",
-      "description": null,
-      "closed_at": "2026-10-28T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        10.618287754216,
-        9.4408054238126
-      ],
-      "observed_at": "2026-10-25T19:00:00Z",
-      "magnitude_value": 5020,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033278"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25839"
     }
   ]
 }
