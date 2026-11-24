@@ -3,10 +3,37 @@
   "dataset": "natural_events",
   "source": "NASA EONET",
   "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=all&days=30&limit=500",
-  "generated_at": "2026-11-24T02:15:53.155Z",
+  "generated_at": "2026-11-24T13:51:02.936Z",
   "period": "past_30_days",
   "count": 500,
   "items": [
+    {
+      "id": "EONET_26661",
+      "title": "Wildfire Little Ridge, Highland, Virginia",
+      "description": "12 Miles SW from Monterey, VA",
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -79.791367,
+        38.313617
+      ],
+      "observed_at": "2026-11-21T23:15:00Z",
+      "magnitude_value": 900,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-VAVAF-260139"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661"
+    },
     {
       "id": "EONET_26631",
       "title": "Flood in Ireland 1104295",
@@ -8746,6 +8773,60 @@
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26638"
     },
     {
+      "id": "EONET_26664",
+      "title": "Wildfire Vanderpool Mountain, Whitley, Kentucky",
+      "description": "8 Miles SE from Williamsburg, KY",
+      "closed_at": "2026-11-23T00:00:00Z",
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -84.01173,
+        36.65014
+      ],
+      "observed_at": "2026-11-20T17:47:00Z",
+      "magnitude_value": 740,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-KYKYS-262353434"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26664"
+    },
+    {
+      "id": "EONET_26662",
+      "title": "Wildfire White Oak Flat, Alleghany, Virginia",
+      "description": "2 Miles NW from Clifton Forge, VA",
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -79.862117,
+        37.8422
+      ],
+      "observed_at": "2026-11-20T13:16:00Z",
+      "magnitude_value": 2237,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-VAVAF-260136"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662"
+    },
+    {
       "id": "EONET_5359",
       "title": "Iceberg A76C",
       "description": null,
@@ -12362,6 +12443,33 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26570"
+    },
+    {
+      "id": "EONET_26665",
+      "title": "Prescribed Fire RX D7 Second Skinny Landings, Mineral, Montana",
+      "description": null,
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -114.752017,
+        47.122717
+      ],
+      "observed_at": "2026-11-16T09:41:00Z",
+      "magnitude_value": 542,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-MTLNF-260581"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26665"
     },
     {
       "id": "EONET_26575",
@@ -85099,6 +85207,33 @@
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333"
     },
     {
+      "id": "EONET_26663",
+      "title": "Prescribed Fire 3R RX - ROCKY MP, Stevens, Washington",
+      "description": null,
+      "closed_at": null,
+      "categories": [
+        {
+          "id": "wildfires",
+          "title": "Wildfires"
+        }
+      ],
+      "geometry_type": "Point",
+      "coordinates": [
+        -117.618779,
+        48.387611
+      ],
+      "observed_at": "2026-11-09T11:50:00Z",
+      "magnitude_value": 550,
+      "magnitude_unit": "acres",
+      "sources": [
+        {
+          "id": "IRWIN",
+          "url": "https://irwin.doi.gov/observer/incidents/2026-WACOF-002230"
+        }
+      ],
+      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26663"
+    },
+    {
       "id": "EONET_26263",
       "title": "Wildfire in South Sudan 1033673",
       "description": null,
@@ -143611,141 +143746,6 @@
         }
       ],
       "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26071"
-    },
-    {
-      "id": "EONET_26072",
-      "title": "Wildfire in Australia 1033486",
-      "description": null,
-      "closed_at": "2026-11-05T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        139.84882347901,
-        -20.947634957801
-      ],
-      "observed_at": "2026-11-02T19:00:00Z",
-      "magnitude_value": 15117,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033486"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26072"
-    },
-    {
-      "id": "EONET_26073",
-      "title": "Wildfire in Botswana 1033516",
-      "description": null,
-      "closed_at": "2026-11-05T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        24.685905444878,
-        -20.438891611504
-      ],
-      "observed_at": "2026-11-02T19:00:00Z",
-      "magnitude_value": 8684,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033516"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26073"
-    },
-    {
-      "id": "EONET_26074",
-      "title": "Wildfire in South Sudan 1033517",
-      "description": null,
-      "closed_at": "2026-11-04T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        25.580594694254,
-        9.3357121685712
-      ],
-      "observed_at": "2026-11-02T19:00:00Z",
-      "magnitude_value": 5634,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033517"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26074"
-    },
-    {
-      "id": "EONET_26075",
-      "title": "Wildfire in Chad 1033518",
-      "description": null,
-      "closed_at": "2026-11-04T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        17.443107575949,
-        11.473455364847
-      ],
-      "observed_at": "2026-11-02T19:00:00Z",
-      "magnitude_value": 5644,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033518"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26075"
-    },
-    {
-      "id": "EONET_26076",
-      "title": "Wildfire in South Sudan, Sudan 1033519",
-      "description": null,
-      "closed_at": "2026-11-04T00:00:00Z",
-      "categories": [
-        {
-          "id": "wildfires",
-          "title": "Wildfires"
-        }
-      ],
-      "geometry_type": "Point",
-      "coordinates": [
-        24.787056301684,
-        9.4279630005498
-      ],
-      "observed_at": "2026-11-02T19:00:00Z",
-      "magnitude_value": 5512,
-      "magnitude_unit": "hectare",
-      "sources": [
-        {
-          "id": "GDACS",
-          "url": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033519"
-        }
-      ],
-      "detail_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26076"
     }
   ]
 }
