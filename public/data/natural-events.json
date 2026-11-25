@@ -3,7 +3,7 @@
   "dataset": "natural_events",
   "source": "NASA EONET",
   "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events?status=all&days=30&limit=500",
-  "generated_at": "2026-11-24T23:55:48.132Z",
+  "generated_at": "2026-11-25T08:43:26.921Z",
   "period": "past_30_days",
   "count": 500,
   "items": [
@@ -12799,7 +12799,7 @@
       "id": "EONET_26494",
       "title": "Tropical Cyclone Akvan",
       "description": null,
-      "closed_at": null,
+      "closed_at": "2026-11-24T00:00:00Z",
       "categories": [
         {
           "id": "severeStorms",
